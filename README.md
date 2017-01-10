@@ -6,4 +6,4 @@ The use of 3030 extrusion makes the frame very rigid and square.  It takes a lot
 
 The name is from the candy that we get when we buy the MK2 kits.  Somebody jokingly said that's a good name and it sort of stuck.
 
-Please join our [Slack chat](http://codehemi.com) if you want to reach us.
+Please join our [Slack](http://codehemi.com) if you want to reach us.
