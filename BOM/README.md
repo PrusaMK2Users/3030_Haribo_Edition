@@ -41,12 +41,12 @@
 |Qty|Source|Description|
 |-----|-----|-----|
 |1|ultimachine|Rambo Mini v1.3
-|1|eBay|AC 110V-220V TO DC 12V Switch Power Supply 20A or 30A|
-|1|eBay|IEC power socket|
-|1|eBay|Power switch|
+|1|eBay / aliexpress|AC 110V-220V TO DC 12V Switch Power Supply 20A or 30A|
+|1|eBay / aliexpress|IEC power socket|
+|1|eBay / aliexpress|Power switch|
 |1|e3d|50x50x15mm 12v DC Side Blow Fan|
-|1|aliexpress|Smart controller Reprap 2004 LCD|
-|2|aliexpress|2x5 ribbon cable (>40cm)|
+|1|eBay / aliexpress|Smart controller Reprap 2004 LCD|
+|2|eBay / aliexpress|2x5 ribbon cable (>40cm)|
 ||Electronics store|14awg power wire (black/red)|
 ||Electronics store|14awg ferrules|
 
@@ -57,19 +57,25 @@
 
 |Qty|Source|Description|
 |-----|-----|-----|
-|1|eBay / aliexprss|Prusa i3 Universal Y Carriage Plate|
-|4|eBay|F623ZZ 3x10x4mm flange bearing|
-|4|eBay|625 5x16x5mm bearing|
-|1|eBay|5x16sh shaft|
-|2|aliexpress|Extruder idler spring ID 3.5mm OD 5mm Height 21.5mm|
+|1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|
+||eBay / aliexpress|GT2 Belt (just get a few meters)|
+|2|eBay / aliexpress|GT2 16T pulley|
+|4|eBay / aliexpress|F623ZZ 3x10x4mm flange bearing|
+|4|eBay / aliexpress|625 5x16x5mm bearing|
+|4|eBay / aliexpress|LM8UU linear bearing|
+|1|eBay / aliexpress|5x16sh shaft|
+|2|eBay / aliexpress|Extruder idler spring ID 3.5mm OD 5mm Height 21.5mm|
 |6|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
-|4|McMaster / Fastenal|M3 washer|
+|8|McMaster / Fastenal|M3 washer|
 |36|McMaster / Fastenal|M6 washer|
-|1|McMaster / Fastenal|M3 lock nut|
-|4|McMaster / Fastenal|Socket Head Cap Screw M2 x 40mm|
+|2|McMaster / Fastenal|M3 square nut|
+|2|McMaster / Fastenal|M3 lock nut|
+|4|McMaster / Fastenal|Socket Head Cap Screw M2 x 12mm|
+|5|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
 |2|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
+|4|McMaster / Fastenal|Socket Head Cap Screw M3 x 18mm|
 |1|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
 |2|McMaster / Fastenal|Socket Head Cap Screw M4 x 40mm|
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
@@ -78,6 +84,7 @@
 |4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 ||Electronic store|Wire loom (3/8" or 10mm)|
 
+- most places sell hardware in packs of 50 or 100.. for most of these you might as well get them in bulk
 - the y carriage is any standard square type that you can get for a generic prusa i3
 - the 5x16 shaft can be found in lots of RC off road buggies
 
