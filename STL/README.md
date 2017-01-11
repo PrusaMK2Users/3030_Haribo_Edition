@@ -7,6 +7,10 @@ for example
 
 1x_power_supply_box.stl means you should print one.
 
+## Stock MK2 parts
+
+Any parts not found in this github you can find on [prusa research github](https://github.com/prusa3d/Original-Prusa-i3/tree/MK2)
+
 ## Print settings
 
 All models should be printed as oriented in the STL files

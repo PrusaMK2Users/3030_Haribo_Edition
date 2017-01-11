@@ -24,6 +24,8 @@
 |-----|-----|-----|
 |6|RJ4JP 01-08|IGUS DRYLIN® Bushing|
 
+- optional, I replaced the 3 in the y carraige and 3 in the x carriage
+
 ## Prusa Research
 
 |Qty|Part #|Description|
@@ -34,6 +36,9 @@
 
 ## Misc hardware
 
-|Qty|Part #|Description|
+|Qty|Source|Description|
 |-----|-----|-----|
-
+|4|eBay|F623ZZ 3x10x4mm flange bearing|
+|8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
+||McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
+||McMaster / Fastenal|Socket Head Cap Screw M6 x 12mm|
