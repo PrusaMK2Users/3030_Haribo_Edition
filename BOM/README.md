@@ -17,7 +17,7 @@
 
 - you can substitute HFS Standard Type extrusions
 - you can skip TPW (tap both ends) and do it yourself
-- you can skip Z8 (wrench holes) and do it yourself
+- you can skip Z8 (counterbore holes) and do it yourself
 - instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
 
 ## Igus bushings
@@ -47,24 +47,38 @@
 |1|e3d|50x50x15mm 12v DC Side Blow Fan|
 |1|aliexpress|Smart controller Reprap 2004 LCD|
 |2|aliexpress|2x5 ribbon cable (>40cm)|
+||Electronics store|14awg power wire (black/red)|
+||Electronics store|14awg ferrules|
 
 - if you use the upgrade kit you will need to get the above, otherwise you can reuse from the mk2 kit
+- I would consider ferrules ==essential== to ensure the wires are properly terminated for the power blocks
 
 ## Misc hardware
 
 |Qty|Source|Description|
 |-----|-----|-----|
+|1|eBay / aliexprss|Prusa i3 Universal Y Carriage Plate|
 |4|eBay|F623ZZ 3x10x4mm flange bearing|
 |4|eBay|625 5x16x5mm bearing|
 |1|eBay|5x16sh shaft|
 |2|aliexpress|Extruder idler spring ID 3.5mm OD 5mm Height 21.5mm|
-|4|McMaster / Fastenal|M3 fender washer|
+|6|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
-||McMaster / Fastenal|M6 washer|
+|4|McMaster / Fastenal|M2 washer|
+|4|McMaster / Fastenal|M3 washer|
+|36|McMaster / Fastenal|M6 washer|
+|1|McMaster / Fastenal|M3 lock nut|
+|4|McMaster / Fastenal|Socket Head Cap Screw M2 x 40mm|
+|2|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
+|1|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
 |2|McMaster / Fastenal|Socket Head Cap Screw M4 x 40mm|
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
-||McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
-||McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
+|48|McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
+|14|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
+|4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 ||Electronic store|Wire loom (3/8" or 10mm)|
+
+- the y carriage is any standard square type that you can get for a generic prusa i3
 - the 5x16 shaft can be found in lots of RC off road buggies
+
 
