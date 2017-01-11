@@ -10,8 +10,8 @@
 |2|PSFG8-360|Precision Linear Shaft - Straight 360mm (y)|
 |2|PSFG8-320|Precision Linear Shaft - Straight 320mm (z)|
 |2|GFS6-3030-330-TPW|3030 High Rigidity Type extrusion 330mm tap both ends|
-|3|GFS6-3030-354-Z8-XA12-XB342|3030 High Rigidity Type extrusion 342mm 8mm wrench hole @ 12mm and 342mm|
-|2|GFS6-3030-320-TPW-Z8-XA100|3030 High Rigidity Type extrusion 320mm tap both ends 8mm wrench hole @100mm|
+|3|GFS6-3030-354-Z8-XA12-XB342|3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm|
+|2|GFS6-3030-320-TPW-Z8-XA100|3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm|
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 
