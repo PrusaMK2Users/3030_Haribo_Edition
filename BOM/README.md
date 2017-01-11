@@ -1,6 +1,6 @@
 # Bill of materials
 
-==Work In Progress.. as I recollect my thoughts things might change.. ==
+_Work In Progress.. as I recollect my thoughts things might change.._
 
 ## 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -51,7 +51,7 @@
 ||Electronics store|14awg ferrules|
 
 - if you use the upgrade kit you will need to get the above, otherwise you can reuse from the mk2 kit
-- I would consider ferrules ==essential== to ensure the wires are properly terminated for the power blocks
+- I would consider ferrules __essential__ to ensure the wires are properly terminated for the power blocks
 
 ## Misc hardware
 
@@ -68,13 +68,14 @@
 |6|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
-|8|McMaster / Fastenal|M3 washer|
+|16|McMaster / Fastenal|M3 washer|
 |36|McMaster / Fastenal|M6 washer|
 |2|McMaster / Fastenal|M3 square nut|
 |2|McMaster / Fastenal|M3 lock nut|
+|4|McMaster / Fastenal|M3 hex nut|
 |4|McMaster / Fastenal|Socket Head Cap Screw M2 x 12mm|
-|5|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
-|2|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
+|13|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
+|6|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
 |4|McMaster / Fastenal|Socket Head Cap Screw M3 x 18mm|
 |1|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
 |2|McMaster / Fastenal|Socket Head Cap Screw M4 x 40mm|
