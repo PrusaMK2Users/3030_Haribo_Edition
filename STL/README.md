@@ -1,12 +1,13 @@
-### STL
+# STL
 
+## Quantity to print
 Beginning of each filename denotes the quantity of that part you need to print.
 
 for example
 
 1x_power_supply_box.stl means you should print one.
 
-### Print settings
+## Print settings
 
 All models should be printed as oriented in the STL files
 
