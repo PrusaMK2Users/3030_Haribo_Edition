@@ -57,8 +57,10 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 
 |Qty|Source|Description|
 |-----|-----|-----|
-|1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|
+||Electronic store|Short zip ties (just ge a bag full)|
+||Electronic store|Wire loom (3/8" or 10mm)|
 ||eBay / aliexpress|GT2 Belt (just get a few meters)|
+|1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|
 |2|eBay / aliexpress|GT2 16T pulley|
 |4|eBay / aliexpress|F623ZZ 3x10x4mm flange bearing|
 |4|eBay / aliexpress|625 5x16x5mm bearing|
@@ -87,7 +89,6 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
 |48|McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
 |14|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
-||Electronic store|Wire loom (3/8" or 10mm)|
 
 - most places sell hardware in packs of 50 or 100.. for most of these you might as well get them in bulk
 - the y carriage is any standard square type that you can get for a generic prusa i3
