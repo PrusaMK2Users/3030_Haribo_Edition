@@ -68,20 +68,22 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |8|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
-|8|McMaster / Fastenal|M3 washer|
+|14|McMaster / Fastenal|M3 washer|
 |36|McMaster / Fastenal|M6 washer|
 |6|McMaster / Fastenal|M3 square nut|
 |2|McMaster / Fastenal|M3 lock nut|
-|8|McMaster / Fastenal|M3 hex nut|
+|9|McMaster / Fastenal|M3 hex nut|
 |4|McMaster / Fastenal|Socket Head Cap Screw M2 x 12mm|
-|13|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
+|15|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
 |6|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
 |10|McMaster / Fastenal|Socket Head Cap Screw M3 x 18mm|
 |3|McMaster / Fastenal|Socket Head Cap Screw M3 x 20mm|
 |2|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
 |3|McMaster / Fastenal|Socket Head Cap Screw M3 x 30mm|
 |3|McMaster / Fastenal|Socket Head Cap Screw M3 x 40mm|
-||McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
+|5|McMaster / Fastenal|Button Head Cap Screw M3 x 8mm|
+|4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
+|2|McMaster / Fastenal|Button Head Cap Screw M3 x 12mm|
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
 |48|McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
 |14|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
