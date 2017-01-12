@@ -65,24 +65,26 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |4|eBay / aliexpress|LM8UU linear bearing|
 |1|eBay / aliexpress|5x16sh shaft|
 |2|eBay / aliexpress|Extruder idler spring ID 3.5mm OD 5mm Height 21.5mm|
-|6|McMaster / Fastenal|M3 fender washer|
+|8|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
-|16|McMaster / Fastenal|M3 washer|
+|8|McMaster / Fastenal|M3 washer|
 |36|McMaster / Fastenal|M6 washer|
-|2|McMaster / Fastenal|M3 square nut|
+|6|McMaster / Fastenal|M3 square nut|
 |2|McMaster / Fastenal|M3 lock nut|
-|4|McMaster / Fastenal|M3 hex nut|
+|8|McMaster / Fastenal|M3 hex nut|
 |4|McMaster / Fastenal|Socket Head Cap Screw M2 x 12mm|
 |13|McMaster / Fastenal|Socket Head Cap Screw M3 x 10mm|
 |6|McMaster / Fastenal|Socket Head Cap Screw M3 x 12mm|
-|4|McMaster / Fastenal|Socket Head Cap Screw M3 x 18mm|
-|1|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
-|2|McMaster / Fastenal|Socket Head Cap Screw M4 x 40mm|
+|10|McMaster / Fastenal|Socket Head Cap Screw M3 x 18mm|
+|3|McMaster / Fastenal|Socket Head Cap Screw M3 x 20mm|
+|2|McMaster / Fastenal|Socket Head Cap Screw M3 x 25mm|
+|3|McMaster / Fastenal|Socket Head Cap Screw M3 x 30mm|
+|3|McMaster / Fastenal|Socket Head Cap Screw M3 x 40mm|
+||McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
 |48|McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
 |14|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
-|4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 ||Electronic store|Wire loom (3/8" or 10mm)|
 
 - most places sell hardware in packs of 50 or 100.. for most of these you might as well get them in bulk
