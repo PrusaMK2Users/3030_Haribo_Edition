@@ -87,8 +87,8 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 |2|McMaster / Fastenal|Button Head Cap Screw M3 x 12mm|
 |8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
-|14|McMaster / Fastenal|Socket Head Cap Screw M6 x 10mm|
-|48|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
+|62|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
+|4|McMaster / Fastenal|Socket Head Cap Screw M6 x 20mm|
 
 - most places sell hardware in packs of 50 or 100.. for most of these you might as well get them in bulk
 - the y carriage is any standard square type that you can get for a generic prusa i3
