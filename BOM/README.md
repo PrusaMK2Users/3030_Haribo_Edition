@@ -66,23 +66,14 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 ||Electronics store|14awg power wire (black/red)|
 ||Electronics store|14awg ferrules|
 
-- if you use the upgrade kit you will need to get the above, otherwise you can reuse from the mk2 kit
+- if you use the mk1-> mk2 upgrade kit you will need to get the above, otherwise you can reuse from the mk2 kit
 - I would consider ferrules __essential__ to ensure the wires are properly terminated for the power blocks
 
 ## Misc hardware
 
 |Qty|Source|Description|
 |-----|-----|-----|
-||Electronic store|Short zip ties (just ge a bag full)|
-||Electronic store|Wire loom (3/8" or 10mm)|
-||eBay / aliexpress|GT2 Belt (just get a few meters)|
-|1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|
-|2|eBay / aliexpress|GT2 16T pulley|
-|4|eBay / aliexpress|F623ZZ 3x10x4mm flange bearing|
-|4|eBay / aliexpress|625 5x16x5mm bearing|
-|4|eBay / aliexpress|LM8UU linear bearing|
-|1|eBay / aliexpress|5x16sh shaft|
-|2|eBay / aliexpress|Extruder idler spring ID 3.5mm OD 5mm Height 21.5mm|
+||Electronic store|Short zip ties (just get a bag full)|
 |8|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
@@ -110,4 +101,19 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 - the y carriage is any standard square type that you can get for a generic prusa i3
 - the 5x16 shaft can be found in lots of RC off road buggies
 
+## "Missing bits"
+
+- if you used the mk1->mk2 upgrade kit, you will find that you are missing a whole bunch of stuff Prusa assume you will reuse from your non-existant mk1
+- this is where I will be documenting the missing bits *I* used .. you can always substitute your own ideas
+
+|Qty|Source|Description|Why?|
+|-----|-----|-----|-----|
+||Electronic store|Wire loom (3/8" or 10mm)|wire management|
+|1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|mounting the heatbed|
+|2|eBay / aliexpress|GT2 16T pulley||
+|4|eBay / aliexpress|F623ZZ 3x10x4mm flanged bearing|put two of them together so the flange size faces out as belt idler|
+|1|eBay / Hobby Store|HPI Blitz / Firestorm Titanium Idler Gear Shaft 5x16m #104138|extruder idler bearing rod|
+|1|eBay / aliexpress|625 5x16x5mm bearing|bearing in the extruder idler|
+|2|eBay / aliexpress|Extruder spring ID 3.5mm OD 5mm Height 21.5mm|springs for the extruder idler|
+|4|eBay / aliexpress|LM8UU linear bearing|bearing for the x ends|
 
