@@ -1,8 +1,9 @@
+
 # Bill of materials
 
 _Work In Progress.. as I recollect my thoughts things might change.._
 
-## 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+## Main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
 |Qty|Part #|Description|
 |-----|-----|-----|
@@ -19,6 +20,21 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 - you can skip TPW (tap both ends) and do it yourself
 - you can skip Z8 (counterbore holes) and do it yourself
 - instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
+
+## Optional spool holder 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|1|GFS6-3030-200-Z8-XA15|3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
+|1|GFS6-3030-147-LTP|3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
+|1|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
+|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (connector)|
+
+- you can substitute HFS Standard Type extrusions
+- you can skip LTP (tap left end) and do it yourself
+- you can skip Z8 (counterbore holes) and do it yourself
+- instead of the blind bracket, you can use a metal outside 90 or print one yourself, the blind bracket just makes it look neater
+- you will also need print one more (6x_end_cap_3_leg.stl)
 
 ## Igus bushings
 
