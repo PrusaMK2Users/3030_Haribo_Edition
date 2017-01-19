@@ -29,8 +29,8 @@ _**You only purchase either High rigidity (color is clear anodize) or Regular ri
 |3|GFS6-3030-354-Z8-XA12-XB342|Clear anodize 3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
 |2|GFS6-3030-320-TPW-Z8-XA100|Clear anodize 3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
 |2|GFS6-3030-330-TPW|Clear anodize 3030 High Rigidity Type extrusion 330mm tap both ends (z)|
-|1|GFS6-3030-200-Z8-XA15|3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
-|1|GFS6-3030-147-LTP|3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
+|1|GFS6-3030-200-Z8-XA15|Clear anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
+|1|GFS6-3030-147-LTP|Clear anodize 3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
 
 ## Black anodize 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
