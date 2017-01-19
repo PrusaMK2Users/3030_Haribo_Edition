@@ -19,8 +19,8 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |3|GFS6-3030-354-Z8-XA12-XB342|Clear anodize 3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
 |2|GFS6-3030-320-TPW-Z8-XA100|Clear anodize 3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
 |2|GFS6-3030-330-TPW|Clear anodize 3030 High Rigidity Type extrusion 330mm tap both ends (z)|
-|1|GFS6-3030-200-Z8-XA15|Clear anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
-|1|GFS6-3030-147-LTP|Clear anodize 3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
+|1|GFS6-3030-200-Z8-XA15|Clear anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
+|1|GFS6-3030-147-LTP|Clear anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
 
 ## Regular rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -29,8 +29,8 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |3|HFSB6-3030-354-Z8-XA12-XB342|Black anodize 3030 Normal Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
 |2|HFSB6-3030-320-TPW-Z8-XA100|Black anodize 3030 Normal Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
 |2|HFSB6-3030-330-TPW|Black anodize 3030 Normal Rigidity Type 330mm tap both ends (z)|
-|1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
-|1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
+|1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
+|1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
 
 ## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
 
@@ -41,7 +41,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |2|PSFG8-320|Precision Linear Shaft - Straight 320mm (z)|
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
-|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (connector)|
+|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (spool holder connector)|
 
 - instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
 
