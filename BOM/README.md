@@ -12,12 +12,15 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |2|PSFG8-320|Precision Linear Shaft - Straight 320mm (z)|
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
+|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (connector)|
 
 - instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
 
 _**You only purchase either High rigidity (color is clear anodize) or Regular rigidity (color is black)**_
 
 - the reference build uses clear anodize high rigid type extrusions
+- you can skip TPW (tap both ends) and do it yourself
+- you can skip Z8 (counterbore holes) and do it yourself
 
 ## Clear anodize 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -26,9 +29,8 @@ _**You only purchase either High rigidity (color is clear anodize) or Regular ri
 |3|GFS6-3030-354-Z8-XA12-XB342|Clear anodize 3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
 |2|GFS6-3030-320-TPW-Z8-XA100|Clear anodize 3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
 |2|GFS6-3030-330-TPW|Clear anodize 3030 High Rigidity Type extrusion 330mm tap both ends (z)|
-
-- you can skip TPW (tap both ends) and do it yourself
-- you can skip Z8 (counterbore holes) and do it yourself
+|1|GFS6-3030-200-Z8-XA15|3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
+|1|GFS6-3030-147-LTP|3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
 
 ## Black anodize 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -37,24 +39,8 @@ _**You only purchase either High rigidity (color is clear anodize) or Regular ri
 |3|HFSB6-3030-354-Z8-XA12-XB342|Black anodize 3030 Normal Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
 |2|HFSB6-3030-320-TPW-Z8-XA100|Black anodize 3030 Normal Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
 |2|HFSB6-3030-330-TPW|Black anodize 3030 Normal Rigidity Type 330mm tap both ends (z)|
-
-- you can skip TPW (tap both ends) and do it yourself
-- you can skip Z8 (counterbore holes) and do it yourself
-
-## Optional spool holder 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
-
-|Qty|Part #|Description|
-|-----|-----|-----|
-|1|GFS6-3030-200-Z8-XA15|3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
-|1|GFS6-3030-147-LTP|3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
-|1|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
-|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (connector)|
-
-- you can substitute HFS Standard Type extrusions
-- you can skip LTP (tap left end) and do it yourself
-- you can skip Z8 (counterbore holes) and do it yourself
-- instead of the blind bracket, you can use a metal outside 90 or print one yourself, the blind bracket just makes it look neater
-- you will also need print one more (6x_end_cap_3_leg.stl)
+|1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (vertical)|
+|1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (horizontal)|
 
 ## Igus bushings
 
@@ -113,7 +99,7 @@ _**You only purchase either High rigidity (color is clear anodize) or Regular ri
 |5|McMaster / Fastenal|Button Head Cap Screw M3 x 8mm|
 |4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 |2|McMaster / Fastenal|Button Head Cap Screw M3 x 12mm|
-|8|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
+|9|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
 |62|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
 |4|McMaster / Fastenal|Socket Head Cap Screw M6 x 20mm|
 
