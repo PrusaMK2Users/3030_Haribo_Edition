@@ -3,23 +3,43 @@
 
 _Work In Progress.. as I recollect my thoughts things might change.._
 
-## Main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
 
 |Qty|Part #|Description|
 |-----|-----|-----|
 |2|PSFG8-370|Precision Linear Shaft - Straight 370mm (x)|
 |2|PSFG8-360|Precision Linear Shaft - Straight 360mm (y)|
 |2|PSFG8-320|Precision Linear Shaft - Straight 320mm (z)|
-|3|GFS6-3030-354-Z8-XA12-XB342|3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
-|2|GFS6-3030-320-TPW-Z8-XA100|3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
-|2|GFS6-3030-330-TPW|3030 High Rigidity Type extrusion 330mm tap both ends (z)|
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 
-- you can substitute HFS Standard Type extrusions
+- instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
+
+_**You only purchase either High rigidity (color is clear anodize) or Regular rigidity (color is black)**_
+
+- the reference build uses clear anodize high rigid type extrusions
+
+## Clear anodize 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|3|GFS6-3030-354-Z8-XA12-XB342|Clear anodize 3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
+|2|GFS6-3030-320-TPW-Z8-XA100|Clear anodize 3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
+|2|GFS6-3030-330-TPW|Clear anodize 3030 High Rigidity Type extrusion 330mm tap both ends (z)|
+
 - you can skip TPW (tap both ends) and do it yourself
 - you can skip Z8 (counterbore holes) and do it yourself
-- instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
+
+## Black anodize 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|3|HFSB6-3030-354-Z8-XA12-XB342|Black anodize 3030 Normal Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
+|2|HFSB6-3030-320-TPW-Z8-XA100|Black anodize 3030 Normal Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
+|2|HFSB6-3030-330-TPW|Black anodize 3030 Normal Rigidity Type 330mm tap both ends (z)|
+
+- you can skip TPW (tap both ends) and do it yourself
+- you can skip Z8 (counterbore holes) and do it yourself
 
 ## Optional spool holder 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
