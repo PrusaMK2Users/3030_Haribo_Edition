@@ -1,5 +1,11 @@
 # 3030 Haribo Edition
 
+![alt text][teaser]
+
+[teaser]: http://i.imgur.com/4kjlYrl.png "Partial render image of Haribo"
+
+credit: geoffreyc @ slack
+
 ## Introduction
 Inspiration for the project came from [davtr](http://www.thingiverse.com/davtr/about) mk2 conversion [Prusa i3 MK2-X](http://www.thingiverse.com/thing:1692666)
 
