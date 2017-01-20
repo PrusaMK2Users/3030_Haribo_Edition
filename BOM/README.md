@@ -13,6 +13,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 ```
 
 - the reference build uses clear anodize high rigid type extrusions
+- the reference build uses hard chrome precision linear shafts
 
 ## High rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -51,7 +52,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |2|RSFJ8-320|Low Temperature Black Chrome Precision Linear Shaft - Straight 320mm (z)|
 
 - these are really precise and looks cool but it's very expensive
-- consider AWM-08 from igus as alternative 
+- consider AWM-08 from igus as alternative (cost should be same as Hard Chrome above)
 
 ## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
 
