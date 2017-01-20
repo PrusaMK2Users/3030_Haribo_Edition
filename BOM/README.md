@@ -4,10 +4,12 @@
 _Work In Progress.. as I recollect my thoughts things might change.._
 
 ```
-===============================================================================================
-= Purchase either High rigidity (color is clear anodize) or Regular rigidity (color is black) =
-= + Common extrusion parts to complete the extrusion frame                                    =
-===============================================================================================
+==========================================================================================
+= For the next two sections choose the rigidity and color you want                       =
+= High rigidity (color is clear anodize) or Regular rigidity (color is black) extrusions =
+= + Hard chrome or Low Temperature Black Chrome rods                                     =
+= + Common extrusion parts to complete the extrusion frame                               =
+==========================================================================================
 ```
 
 - the reference build uses clear anodize high rigid type extrusions
@@ -32,13 +34,29 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
 |1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
 
+## Hard Chrome Precision Linear Shaft
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|2|PSFG8-370|Hard Chrome Precision Linear Shaft - Straight 370mm (x)|
+|2|PSFG8-360|Hard Chrome Precision Linear Shaft - Straight 360mm (y)|
+|2|PSFG8-320|Hard Chrome Precision Linear Shaft - Straight 320mm (z)|
+
+## Low Temperature Black Chrome Precision Linear Shaft
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|2|RSFJ8-370|Low Temperature Black Chrome Precision Linear Shaft - Straight 370mm (x)|
+|2|RSFJ8-360|Low Temperature Black Chrome Precision Linear Shaft - Straight 360mm (y)|
+|2|RSFJ8-320|Low Temperature Black Chrome Precision Linear Shaft - Straight 320mm (z)|
+
+- these are really precise and looks cool but it's very expensive
+- consider AWM-08 from igus as alternative 
+
 ## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|PSFG8-370|Precision Linear Shaft - Straight 370mm (x)|
-|2|PSFG8-360|Precision Linear Shaft - Straight 360mm (y)|
-|2|PSFG8-320|Precision Linear Shaft - Straight 320mm (z)|
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 |1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (spool holder connector)|
