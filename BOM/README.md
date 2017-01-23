@@ -9,6 +9,8 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 = High rigidity (color is clear anodize) or Regular rigidity (color is black) extrusions =
 = + Hard chrome or Low Temperature Black Chrome rods or igus rods                        =
 = + Common extrusion parts to complete the extrusion frame                               =
+=                                                                                        =
+= * the y axis uses 360mm rods, at the MINIMUM you need to replace those *               =
 ==========================================================================================
 ```
 
@@ -16,7 +18,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 - the reference build uses hard chrome precision linear shafts
 
 - the *black* reference build uses black regular rigid type extrusions
-- the *black* reference build uses black aluminum hollow shafts
+- the *black* reference build uses black aluminum shafts
 
 ## High rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -56,13 +58,13 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 
 - these are really precise and looks cool but it's very expensive
 
-## drylin® R - aluminum hollow shaft AWM from [Igus](http://www.igus.com/wpck/3621/drylin_r_awm)
+## drylin® R - aluminum shaft AWM from [Igus](http://www.igus.com/wpck/3621/drylin_r_awm)
 
 |Qty|Part #|Description|
 |-----|-----|-----|
-|2|AWM-08 370|drylin® R - aluminum hollow shaft AWM 370mm (x)|
-|2|AWM-08 360|drylin® R - aluminum hollow shaft AWM 360mm (y)|
-|2|AWM-08 320|drylin® R - aluminum hollow shaft AWM 320mm (z)|
+|2|AWM-08 370|drylin® R - aluminum shaft AWM 370mm (x)|
+|2|AWM-08 360|drylin® R - aluminum shaft AWM 360mm (y)|
+|2|AWM-08 320|drylin® R - aluminum shaft AWM 320mm (z)|
 
 - comes in black, aluminum rods from igus
 
