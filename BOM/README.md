@@ -7,13 +7,16 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 ==========================================================================================
 = For the next two sections choose the rigidity and color you want                       =
 = High rigidity (color is clear anodize) or Regular rigidity (color is black) extrusions =
-= + Hard chrome or Low Temperature Black Chrome rods                                     =
+= + Hard chrome or Low Temperature Black Chrome rods or igus rods                        =
 = + Common extrusion parts to complete the extrusion frame                               =
 ==========================================================================================
 ```
 
 - the reference build uses clear anodize high rigid type extrusions
 - the reference build uses hard chrome precision linear shafts
+
+- the *black* reference build uses black regular rigid type extrusions
+- the *black* reference build uses black aluminum hollow shafts
 
 ## High rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
 
@@ -35,7 +38,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
 |1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
 
-## Hard Chrome Precision Linear Shaft
+## Hard Chrome Precision Linear Shaft from [Misumi US](https://us.misumi-ec.com) 
 
 |Qty|Part #|Description|
 |-----|-----|-----|
@@ -43,7 +46,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |2|PSFG8-360|Hard Chrome Precision Linear Shaft - Straight 360mm (y)|
 |2|PSFG8-320|Hard Chrome Precision Linear Shaft - Straight 320mm (z)|
 
-## Low Temperature Black Chrome Precision Linear Shaft
+## Low Temperature Black Chrome Precision Linear Shaft from [Misumi US](https://us.misumi-ec.com)
 
 |Qty|Part #|Description|
 |-----|-----|-----|
@@ -52,7 +55,16 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |2|RSFJ8-320|Low Temperature Black Chrome Precision Linear Shaft - Straight 320mm (z)|
 
 - these are really precise and looks cool but it's very expensive
-- consider AWM-08 from igus as alternative (cost should be same as Hard Chrome above)
+
+## drylin® R - aluminum hollow shaft AWM from [Igus](http://www.igus.com/wpck/3621/drylin_r_awm)
+
+|Qty|Part #|Description|
+|-----|-----|-----|
+|2|AWM-08 370|drylin® R - aluminum hollow shaft AWM 370mm (x)|
+|2|AWM-08 360|drylin® R - aluminum hollow shaft AWM 360mm (y)|
+|2|AWM-08 320|drylin® R - aluminum hollow shaft AWM 320mm (z)|
+
+- comes in black, aluminum rods from igus
 
 ## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
 
@@ -98,6 +110,15 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 - I would consider ferrules __essential__ to ensure the wires are properly terminated for the power blocks
 
 ## Misc hardware
+
+```
+================================================================================
+= Some of the hardware listed below you can reuse if you have the full mk2 kit =
+= Some fo the hadrware listed is *partially* in the mk1->mk2 kit               =
+=                                                                              =
+= I listed *all* the hardware used, it's up to you to take stock what you need =
+================================================================================
+```
 
 |Qty|Source|Description|
 |-----|-----|-----|
