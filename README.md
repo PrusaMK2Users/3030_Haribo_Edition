@@ -20,10 +20,11 @@ Please join our [Slack](http://codehemi.com) if you want to reach us.
 
 |\#|slack handle|color|
 |-----|-----|-----|
-|1|jtktam|Orange|
-|2|geoffreyc|Orange|
-|3|ar.o.be|Pineapple|
-|4|joostvwillegen|metallic gray|
+|0|jtktam|Orange|
+|1|geoffreyc|Orange|
+|2|ar.o.be|Pineapple|
+|3|joostvwillegen|metallic gray|
+|4|||
 |5|||
 |6|||
 |7|||
