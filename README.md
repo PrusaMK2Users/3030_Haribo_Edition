@@ -15,3 +15,18 @@ The name is from the candy that we get when we buy the MK2 kits.  Somebody jokin
 
 ## Contact us
 Please join our [Slack](http://codehemi.com) if you want to reach us.
+
+## World's first 10 Haribo in the wild
+
+|\#|slack handle|
+|-----|-----|
+|1|jtktam|
+|2|geoffreyc|
+|3|ar.o.be|
+|4||
+|5||
+|6||
+|7||
+|8||
+|9||
+|10||
