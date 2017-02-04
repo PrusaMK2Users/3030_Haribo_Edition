@@ -18,16 +18,16 @@ Please join our [Slack](http://codehemi.com) if you want to reach us.
 
 ## World's first 10 Haribo in the wild
 
-|\#|slack handle|color|
-|-----|-----|-----|
-|0|jtktam|Orange|
-|1|geoffreyc|Orange|
-|2|ar.o.be|Pineapple|
-|3|joostvwillegen|metallic gray|
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
+|\#|slack handle|frame/color|60mm/s?|>100mm/s?|
+|-----|-----|-----|-----|-----|
+|0|jtktam|Silver/Orange<br/>Black/Red|Yes|Testing|
+|1|geoffreyc|Silver/Orange|||
+|2|ar.o.be|Silver/Pineapple|||
+|3|joostvwillegen|Black/Metallic Gray|||
+|4|chinooktx|Silver/Black|||
+|5|skuiper|Black/Black + Purple|||
+|6|||||
+|7|||||
+|8|||||
+|9|||||
+|10|||||
