@@ -22,7 +22,7 @@ Please join our [Slack](http://codehemi.com) if you want to reach us.
 |-----|-----|-----|-----|-----|
 |0|jtktam|Silver/Orange<br/>Black/Red|Yes|Testing|
 |1|geoffreyc|Silver/Orange|Yes||
-|2|ar.o.be|Silver/Pineapple|||
+|2|ar.o.be|Silver/Pineapple|Yes||
 |3|joostvwillegen|Black/Metallic Gray|||
 |4|chinooktx|Silver/Black|||
 |5|skuiper|Black/Black + Purple|||
