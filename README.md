@@ -18,16 +18,22 @@ Please join our [Slack](http://codehemi.com) if you want to reach us.
 
 ## World's first 10 Haribo in the wild
 
-|\#|slack handle|frame/color|60mm/s?|>100mm/s?|
-|-----|-----|-----|-----|-----|
-|0|jtktam|Silver/Orange<br/>Black/Red|Yes|Testing|
-|1|geoffreyc|Silver/Orange|Yes||
-|2|ar.o.be|Silver/Pineapple|Yes||
-|3|joostvwillegen|Black/Metallic Gray|||
-|4|chinooktx|Silver/Black|||
-|5|skuiper|Black/Black + Purple|||
-|6|||||
-|7|||||
-|8|||||
-|9|||||
-|10|||||
+S3D base settings
+
+- 60mm/s 60% other speeds 30% first layer speed
+- 80mm/s 50% other speeds 25% first layer speed
+- 100mm/s ?
+
+|\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
+|-----|-----|-----|-----|-----|-----|
+|0|jtktam|Silver/Orange<br/>Black/Red|Yes|Yes|Testing|
+|1|geoffreyc|Silver/Orange|Yes|Yes||
+|2|ar.o.be|Silver/Pineapple|Yes|||
+|3|joostvwillegen|Black/Metallic Gray||||
+|4|chinooktx|Silver/Black||||
+|5|skuiper|Black/Black + Purple||||
+|6||||||
+|7||||||
+|8||||||
+|9||||||
+|10||||||
