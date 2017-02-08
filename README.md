@@ -30,7 +30,7 @@ S3D base settings
 |1|geoffreyc|Silver/Orange|Yes|Yes||
 |2|ar.o.be|Silver/Pineapple|Yes|Yes|Yes|
 |3|joostvwillegen|Black/Metallic Gray||||
-|4|chinooktx|Silver/Black||||
+|4|chinooktx|Silver/Black|Yes|Yes||
 |5|skuiper|Black/Black + Purple||||
 |6||||||
 |7||||||
