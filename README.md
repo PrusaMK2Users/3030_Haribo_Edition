@@ -32,7 +32,7 @@ S3D base settings
 |3|joostvwillegen|Black/Metallic Gray||||
 |4|chinooktx|Silver/Black|Yes|Yes||
 |5|skuiper|Black/Black + Purple||||
-|6||||||
+|6|JJ|Black/Violet||||
 |7||||||
 |8||||||
 |9||||||
