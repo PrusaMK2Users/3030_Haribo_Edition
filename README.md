@@ -31,9 +31,9 @@ S3D base settings
 |2|ar.o.be|Silver/Pineapple|Yes|Yes|Yes|
 |3|joostvwillegen|Black/Metallic Gray||||
 |4|chinooktx|Silver/Black|Yes|Yes||
-|5|skuiper|Black/Black + Purple||||
+|5|skuiper|Black/Purple+Green||||
 |6|JJ|Black/Violet||||
-|7||||||
+|7|satmanager|Silver/Cherry Red||||
 |8||||||
 |9||||||
 |10||||||
