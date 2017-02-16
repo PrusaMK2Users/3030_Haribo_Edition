@@ -10,3 +10,4 @@ _These file are optional stuff to print for the Haribo Edition_
 |1x_power_supply_box.stl<br/>1x_power_supply_mount.stl|jtktam (Joseph Tam)|Power supply mount and switch box for ebay PSU|
 |3x_SC8UU_LM8UU.stl|jtktam (Joseph Tam)|adapt lm8u to sc8uu block, use for aftermarket y carriage|
 |3x_SC8UU_RZJM.stl|jtktam (Joseph Tam)|adapt igus rjzm to sc8uu block, use for aftermarket y carriage|
+|3x_y_bearing_housing_rjzm_01_08.stl|chinooktx (Pat Brochu)|adapt igus rjzm to y belt bearing|
