@@ -22,7 +22,7 @@ S3D base settings
 
 - 60mm/s 60% other speeds 30% first layer speed
 - 80mm/s 50% other speeds 25% first layer speed
-- 100mm/s ?
+- 100mm/s _needs to be tested_ 40% other speeds 20% first layer speed
 
 |\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
 |-----|-----|-----|-----|-----|-----|
@@ -34,6 +34,6 @@ S3D base settings
 |5|skuiper|Black/Purple+Green||||
 |6|JJ|Black/Violet||||
 |7|satmanager|Silver/Cherry Red||||
-|8||||||
+|8|ryanneufeld|Black/Black||||
 |9||||||
 |10||||||
