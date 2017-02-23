@@ -26,7 +26,7 @@ S3D base settings
 
 |\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
 |-----|-----|-----|-----|-----|-----|
-|0|jtktam|Silver/Orange<br/>Black/Red|Yes|Yes|Yes|
+|0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Jade|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
 |2|ar.o.be|Silver/Pineapple|Yes|Yes|Yes|
 |3|joostvwillegen|Black/Metallic Gray||||
