@@ -30,10 +30,10 @@ S3D base settings
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
 |2|ar.o.be|Silver/Pineapple|Yes|Yes|Yes|
 |3|joostvwillegen|Black/Metallic Gray||||
-|4|chinooktx|Silver/Black|Yes|Yes||
+|4|chinooktx|Silver/Black|Yes|Yes|Yes|
 |5|skuiper|Black/Purple+Green||||
 |6|JJ|Black/Violet||||
-|7|satmanager|Silver/Cherry Red||||
+|7|satmanager|Silver/Cherry Red|Yes|Yes||
 |8|ryanneufeld|Black/Black||||
 |9||||||
 |10||||||
