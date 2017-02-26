@@ -16,13 +16,14 @@ The name is from the candy that we get when we buy the MK2 kits.  Somebody jokin
 ## Contact us
 Please join our [Slack](http://codehemi.com) if you want to reach us.
 
-## World's first 10 Haribo in the wild
+## Haribo in the wild
 
 S3D base settings
 
 - 60mm/s 60% other speeds 30% first layer speed
 - 80mm/s 50% other speeds 25% first layer speed
-- 100mm/s _needs to be tested_ 40% other speeds 20% first layer speed
+- 100mm/s 40% other speeds 20% first layer speed
+- 120mm/s 30% other speeds 15% first layer speed
 
 |\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
 |-----|-----|-----|-----|-----|-----|
@@ -35,5 +36,15 @@ S3D base settings
 |6|JJ|Black/Violet||||
 |7|satmanager|Silver/Cherry Red|Yes|Yes||
 |8|ryanneufeld|Black/Black||||
-|9||||||
-|10||||||
+|9|tricko|Black/Black+White||||
+|10|cube|||||
+|11|johnocfii |||||
+|12||||||
+|13||||||
+|14||||||
+|15||||||
+|16||||||
+|17||||||
+|18||||||
+|19||||||
+|20||||||
