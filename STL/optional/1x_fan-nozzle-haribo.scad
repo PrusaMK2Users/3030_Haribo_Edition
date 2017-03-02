@@ -62,4 +62,10 @@ module fan_n(){
     }
 }
 
-fan_n();
+module printable_fan_n() {
+    rotate([0,180,0]){
+        fan_n();
+    }
+}
+
+printable_fan_n();
