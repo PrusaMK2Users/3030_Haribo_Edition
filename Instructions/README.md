@@ -2,11 +2,11 @@
 
 ## Important measurements
 
-The only one that you need to worry about is the spacing of the y rod holders.
+The only one that you need to worry about is the spacing of the left y rod holders.
 
-On the reference build, each y rod holder is 67.75mm from the edge of the extrusion.
+On the reference build, each left y rod holder is 67.75mm from the edge of the extrusion.
 
-Ensure the front and back measurements are the same to make the rods parallel.  Then adjust position of the bearing holders so that the y carriage slides smooth.
+Ensure the front and back measurements of the left side are the same.  Then using the the bearings and the y carriage, ensure the right side y rods are parallel and the y carriage ride smoothly.  if needed adjust position of the bearing holders so that the y carriage slides smooth.
 
 ## Guidelines
 
