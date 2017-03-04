@@ -40,9 +40,9 @@ S3D base settings
 |10|cube|||||
 |11|johnocfii |||||
 |12|patrik|||||
-|13|abjorshammar|||||
-|14||||||
-|15||||||
+|13|jonasrh|||||
+|14|abjorshammar|||||
+|15|evad|||||
 |16||||||
 |17||||||
 |18||||||
