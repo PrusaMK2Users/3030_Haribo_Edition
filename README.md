@@ -39,11 +39,11 @@ S3D base settings
 |9|tricko|Black/Black+White||||
 |10|cube|||||
 |11|johnocfii |||||
-|12|patrik|||||
+|12|jason|||||
 |13|jonasrh|||||
-|14|abjorshammar|||||
-|15|evad|||||
-|16||||||
+|14|evad|||||
+|15|patrik|||||
+|16|abjorshammar|||||
 |17||||||
 |18||||||
 |19||||||
