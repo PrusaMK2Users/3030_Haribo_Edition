@@ -39,12 +39,12 @@ S3D base settings
 |9|tricko|Black/Black+White||||
 |10|cube|||||
 |11|johnocfii |||||
-|12|jasonh|Silver/Transparent||||
+|12|jasonh|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|||||
 |14|evad|||||
 |15|patrik|||||
 |16|abjorshammar|||||
 |17|stevendpclark|||||
-|18||||||
+|18|arb|||||
 |19||||||
 |20||||||
