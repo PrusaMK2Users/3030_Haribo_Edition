@@ -10,7 +10,7 @@ credit: geoffreyc @ slack
 
 **you do this modification at your own risk**
 
-we are not responsible for any damages / injuries that might arise from the usage of the ideas, documentation, etc that you get from this github.  All precautions and safety protection should be taken and only attempt it if you are experienced in this area.
+we are not responsible for any damages / injuries that might arise from the usage of all material, including but not limited to ideas, documentation, diagrams, that you get from this github.  All precautions and safety protection should be taken and only attempt it if you are experienced in this area.
 
 ## Introduction
 Inspiration for the project came from [davtr](http://www.thingiverse.com/davtr/about) mk2 conversion [Prusa i3 MK2-X](http://www.thingiverse.com/thing:1692666)
