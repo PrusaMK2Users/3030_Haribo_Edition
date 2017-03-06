@@ -39,7 +39,7 @@ S3D base settings
 |9|tricko|Black/Black+White||||
 |10|cube|||||
 |11|johnocfii |||||
-|12|jasonh|Silver/Transparent|Yes|Yes|Yes|
+|12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|||||
 |14|evad|||||
 |15|patrik|||||
