@@ -12,3 +12,4 @@ _These file are optional stuff to print for the Haribo Edition_
 |3x_SC8UU_RZJM.stl|jtktam (Joseph Tam)|adapt igus rjzm to sc8uu block, use for aftermarket y carriage|
 |3x_y_bearing_housing_rjzm_01_08.stl|chinooktx (Pat Brochu)|adapt igus rjzm to y belt bearing|
 |3x_y_bearing_housing_lm8uu_short.stl|chinooktx (Pat Brochu)|adapt lm8uu to y belt bearing|
+|LRS-350-12.stl|chinooktx (Pat Brochu)|Initial design for LRS-350-12 Meanwell Power Supply|
