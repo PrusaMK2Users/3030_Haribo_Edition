@@ -1,8 +1,12 @@
 # Firmware
 
-## Warning / Introduction
+## Introduction
 
-Depending on the y carriage you use (stock or aftermarket) your mileage might vary.  I will note where you need to make the necessary changes and how to determine the values, but be ready to shut down the machine if it looks like it's going to crash the head into the bed!
+The 3030 Haribo Edition frame has slightly more Z height than the stock Original Prusa i3 MK2. You will need to make some minor modifications to the firmware in order to accommodate for this.
+
+## Warning
+
+**Please Note:** Depending on the y carriage you use (stock or aftermarket), your mileage might vary.  Various y-carriages have different heights. I will note where you need to make the necessary changes and how to determine the values, but be ready to shut down the machine if it looks like it's going to crash the head into the bed!
 
 ## Configuration_prusa.h
 
