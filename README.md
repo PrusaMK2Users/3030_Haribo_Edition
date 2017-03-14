@@ -44,7 +44,7 @@ S3D base settings
 |8|ryanneufeld|Black/Black||||
 |9|tricko|Black/Black+White||||
 |10|cube|||||
-|11|johnocfii|||||
+|11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade||||
 |12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|||||
 |14|evad|||||
