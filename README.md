@@ -56,7 +56,7 @@ S3D base settings
 |20|kaiserheld|||||
 |21|tcolby|Silver/White||||
 |22|ollietwist|Silver/Orange||||
-|23||||||
+|23|Jb3872|Black/Burgundy||||
 |24||||||
 |25||||||
 |26||||||
