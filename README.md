@@ -55,7 +55,7 @@ S3D base settings
 |19|philsburry|||||
 |20|kaiserheld|||||
 |21|tcolby|Silver/White||||
-|22||||||
+|22|ollietwist|Silver/Orange||||
 |23||||||
 |24||||||
 |25||||||
