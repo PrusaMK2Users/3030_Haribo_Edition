@@ -1,7 +1,5 @@
-
-# Bill of materials
-
-_Work In Progress.. as I recollect my thoughts things might change.._
+# Bill of Materials
+Below you will find the Bill of Materials for the 3030 Haribo Edition build. This list of materials is mostly complete, but it is still a work in progress. Please join our [Slack](http://codehemi.com) group and join the #haribo3030 channel if you have any questions at all.
 
 ```
 ==========================================================================================
