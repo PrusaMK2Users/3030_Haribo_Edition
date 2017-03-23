@@ -47,7 +47,7 @@ S3D base settings
 |11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade||||
 |12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|||||
-|14|evad|||||
+|14|[evad](http://imgur.com/a/PWNlf)|Silver/Silver|Yes|Yes|Yes|
 |15|patrik|||||
 |16|abjorshammar|||||
 |17|stevendpclark|||||
