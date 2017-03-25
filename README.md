@@ -42,7 +42,7 @@ S3D base settings
 |6|JJ|Black/Violet||||
 |7|satmanager|Silver/Cherry Red|Yes|Yes||
 |8|ryanneufeld|Black/Black||||
-|9|tricko|Black/Black+White||||
+|9|tricko|Black/Black+White|Yes|Yes|Yes|
 |10|cube|||||
 |11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade||||
 |12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
@@ -52,12 +52,12 @@ S3D base settings
 |16|abjorshammar|||||
 |17|stevendpclark|||||
 |18|arb|Silver/Lime Green||||
-|19|philsburry|||||
+|19|philsburry|Silver/Translucent Blue||||
 |20|kaiserheld|||||
 |21|tcolby|Silver/White||||
 |22|ollietwist|Silver/Orange||||
 |23|Jb3872|Black/Burgundy||||
-|24||||||
+|24|unkle_rukus|Black/Neon Green||||
 |25||||||
 |26||||||
 |27||||||
