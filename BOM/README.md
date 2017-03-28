@@ -1,7 +1,5 @@
-
-# Bill of materials
-
-_Work In Progress.. as I recollect my thoughts things might change.._
+# Bill of Materials
+Below you will find the Bill of Materials for the 3030 Haribo Edition build. This list of materials is mostly complete, but it is still a work in progress. Please join our [Slack](http://codehemi.com) group and join the #haribo3030 channel if you have any questions at all.
 
 ```
 ==========================================================================================
@@ -105,8 +103,8 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 |1|e3d|50x50x15mm 12v DC Side Blow Fan|
 |1|eBay / aliexpress|Smart controller Reprap 2004 LCD|
 |2|eBay / aliexpress|2x5 ribbon cable (>40cm)|
-||Electronics store|14awg power wire (black/red)|
-||Electronics store|14awg ferrules|
+|-|Electronics store|14awg power wire (black/red)|
+|-|Electronics store|14awg ferrules|
 
 - if you use the mk1-> mk2 upgrade kit you will need to get the above, otherwise you can reuse from the mk2 kit
 - I would consider ferrules __essential__ to ensure the wires are properly terminated for the power blocks
@@ -124,7 +122,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 
 |Qty|Source|Description|
 |-----|-----|-----|
-||Electronic store|Short zip ties (just get a bag full)|
+|-|Electronic store|Short zip ties (just get a bag full)|
 |8|McMaster / Fastenal|M3 fender washer|
 |2|McMaster / Fastenal|M5 fender washer|
 |4|McMaster / Fastenal|M2 washer|
@@ -159,7 +157,7 @@ _Work In Progress.. as I recollect my thoughts things might change.._
 
 |Qty|Source|Description|Why?|
 |-----|-----|-----|-----|
-||Electronic store|Wire loom (3/8" or 10mm)|wire management|
+|-|Electronic store|Wire loom (3/8" or 10mm)|wire management|
 |1|eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|mounting the heatbed|
 |2|eBay / aliexpress|GT2 16T pulley||
 |4|eBay / aliexpress|F623ZZ 3x10x4mm flanged bearing|put two of them together so the flange size faces out as belt idler|

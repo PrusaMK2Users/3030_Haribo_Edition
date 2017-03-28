@@ -36,21 +36,33 @@ S3D base settings
 |0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Jade|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
 |2|[ar.o.be](http://imgur.com/a/Ss3z2)|Silver/Pineapple|Yes|Yes|Yes|
-|3|joostvwillegen|Black/Metallic Gray|Yes|Yes|Yes|
+|3|[joostvwillegen](http://imgur.com/a/RYOfm)|Black/Metallic Gray<br/>Yellow/White|Yes|Yes|Yes|
 |4|chinooktx|Silver/Black|Yes|Yes|Yes|
-|5|skuiper|Black/Purple+Green||||
+|5|[skuiper](http://imgur.com/a/5j4W8)|Black/Purple+Green|Yes|Yes||
 |6|JJ|Black/Violet||||
 |7|satmanager|Silver/Cherry Red|Yes|Yes||
 |8|ryanneufeld|Black/Black||||
-|9|tricko|Black/Black+White||||
+|9|tricko|Black/Black+White|Yes|Yes|Yes|
 |10|cube|||||
-|11|johnocfii|||||
+|11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade||||
 |12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|||||
-|14|evad|||||
+|14|[evad](http://imgur.com/a/PWNlf)|Silver/Silver|Yes|Yes|Yes|
 |15|patrik|||||
 |16|abjorshammar|||||
 |17|stevendpclark|||||
 |18|arb|Silver/Lime Green||||
-|19|philsburry|||||
+|19|philsburry|Silver/Translucent Blue||||
 |20|kaiserheld|||||
+|21|tcolby|Silver/White||||
+|22|ollietwist|Silver/Orange||||
+|23|Jb3872|Black/Burgundy||||
+|24|unkle_rukus|Black/Neon Green||||
+|25||||||
+|26||||||
+|27||||||
+|28||||||
+|29||||||
+|30||||||
+
+
