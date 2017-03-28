@@ -14,4 +14,5 @@ _These file are optional stuff to print for the Haribo Edition_
 |3x_y_bearing_housing_lm8uu_short.stl|chinooktx (Pat Brochu)|adapt lm8uu to y belt bearing|
 |1x_mk2x_y_belt_holder.stl|Mk2-x|demoted y belt holder|
 |3x_double_y_bearing_housing.stl|Mk2-x|demoted y bearing holder|
+|LRS-350-12.stl|chinooktx (Pat Brochu)|Initial design for LRS-350-12 Meanwell Power Supply|
 |1x_aftermarket_y_carriage_raiser.stl|jtktam (Joseph Tam)|three sc8uu block spacers and 1 belt holder spacer to raise the y carriage by 3.5mm to match the level of the stock y carriage|
