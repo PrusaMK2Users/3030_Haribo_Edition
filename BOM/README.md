@@ -143,9 +143,11 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 |2|McMaster / Fastenal|Button Head Cap Screw M3 x 12mm|
 |9|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
+|12|McMaster / Fastenal|Socket Head Cap Screw M6 x 12mm|
 |62|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
 |4|McMaster / Fastenal|Socket Head Cap Screw M6 x 20mm|
 
+- M6x12mm screws should be used for the parts that have recessed holes.  Namely: Y idler and motor holder, the Rambo mount holder and the Z Rod Holders
 - most places sell hardware in packs of 50 or 100.. for most of these you might as well get them in bulk
 - the y carriage is any standard square type that you can get for a generic prusa i3
 - the 5x16 shaft can be found in lots of RC off road buggies
