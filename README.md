@@ -2,9 +2,9 @@
 
 ![alt text][teaser]
 
-[teaser]: http://i.imgur.com/4kjlYrl.png "Partial render image of Haribo"
+[teaser]: http://i.imgur.com/Tu3KHg3.jpg "Partial render image of Haribo"
 
-credit: geoffreyc @ slack
+credit: jb3872 @ slack
 
 ## Disclaimer
 
