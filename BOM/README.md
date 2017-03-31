@@ -12,10 +12,10 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 ==========================================================================================
 ```
 
-- the reference build uses clear anodize high rigid type extrusions
+- the reference build uses clear anodize high rigidity type extrusions
 - the reference build uses hard chrome precision linear shafts
 
-- the *black* reference build uses black regular rigid type extrusions
+- the *black* reference build uses black regular rigidity type extrusions
 - the *black* reference build uses black aluminum shafts
 
 ## High rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
@@ -54,7 +54,7 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |2|RSFJ8-360|Low Temperature Black Chrome Precision Linear Shaft - Straight 360mm (y)|
 |2|RSFJ8-320|Low Temperature Black Chrome Precision Linear Shaft - Straight 320mm (z)|
 
-- these are really precise and looks cool but it's very expensive
+- these are really precise and look cool but are very expensive
 
 ## drylin® R - aluminum shaft AWM from [Igus](http://www.igus.com/wpck/3621/drylin_r_awm)
 
@@ -82,7 +82,7 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |-----|-----|-----|
 |6|RJ4JP-01-08|IGUS DRYLIN® Bushing|
 
-- optional, I replaced the 3 in the y carraige and 3 in the x carriage
+- optional, I replaced the 3 in the y carriage and 3 in the x carriage
 
 ## Prusa Research
 
@@ -142,9 +142,10 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |5|McMaster / Fastenal|Button Head Cap Screw M3 x 8mm|
 |4|McMaster / Fastenal|Button Head Cap Screw M3 x 10mm|
 |2|McMaster / Fastenal|Button Head Cap Screw M3 x 12mm|
+|4|McMaster / Fastenal|Button Head Cap Screw M4 x 6mm|
 |9|McMaster / Fastenal|Socket Head Cap Screw M8 x 40mm|
 |12|McMaster / Fastenal|Socket Head Cap Screw M6 x 12mm|
-|62|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
+|54|McMaster / Fastenal|Socket Head Cap Screw M6 x 14mm|
 |4|McMaster / Fastenal|Socket Head Cap Screw M6 x 20mm|
 
 - M6x12mm screws should be used for the parts that have recessed holes.  Namely: Y idler and motor holder, the Rambo mount holder and the Z Rod Holders
