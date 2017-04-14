@@ -15,3 +15,4 @@ Ensure the front and back measurements of the left side are the same.  Then usin
 - I found fender washer for the y carriage bolts spread the load and help maintain consisntent contact
 - make sure you use the correct length M6 screws, most pieces use M6 x 12 but others use M6 x 14
 - the firmware changes are optional. you can make this work without making any changes by moving the gantry so tha the nozzle is 210mm from the print bed
+- M6x12mm screws should be used for the parts that have recessed holes.  Namely: Y idler and motor holder, the Rambo mount holder and the Z Rod Holders
