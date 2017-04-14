@@ -1,34 +1,12 @@
-# Bill of Materials
+# I. Intro
 Below you will find the Bill of Materials for the 3030 Haribo Edition build. This list of materials is mostly complete, but it is still a work in progress. Please join our [Slack](http://codehemi.com) group and join the #haribo3030 channel if you have any questions at all.
 
-```
-==========================================================================================
-= For the next two sections choose the rigidity and color you want                       =
-= High rigidity (color is clear anodize) or Regular rigidity (color is black) extrusions =
-= + Hard chrome or Low Temperature Black Chrome rods or igus rods                        =
-= + Common extrusion parts to complete the extrusion frame                               =
-=                                                                                        =
-= * the y axis uses 360mm rods, at the MINIMUM you need to replace those *               =
-==========================================================================================
-```
+# II. 3030 Frame Parts
+Whether you are upgrading your existing Original Prusa i3 MK2 or building a 3030 Haribo Edition from scratch,
+there are some aluminum extrusion parts that you will need. If you live in the United States, see our [CSV guide here](./MISUMI_CSV/README.md) to download a pre-made list of parts to upload and order straight from [Misumi US](https://us.misumi-ec.com/).
 
-- the reference build uses clear anodize high rigidity type extrusions
-- the reference build uses hard chrome precision linear shafts
-
-- the *black* reference build uses black regular rigidity type extrusions
-- the *black* reference build uses black aluminum shafts
-
-## High rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
-
-|Qty|Part #|Description|
-|-----|-----|-----|
-|3|GFS6-3030-354-Z8-XA12-XB342|Clear anodize 3030 High Rigidity Type extrusion 354mm 8mm counterbore hole @ 12mm and 342mm (x)|
-|2|GFS6-3030-320-TPW-Z8-XA100|Clear anodize 3030 High Rigidity Type extrusion 320mm tap both ends 8mm counterbore hole @100mm (y)|
-|2|GFS6-3030-330-TPW|Clear anodize 3030 High Rigidity Type extrusion 330mm tap both ends (z)|
-|1|GFS6-3030-200-Z8-XA15|Clear anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
-|1|GFS6-3030-147-LTP|Clear anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
-
-## Regular rigidity 3030 main structure 3030 extrusions from [Misumi US](https://us.misumi-ec.com)
+## Reference Parts List
+If you would rather source the frame parts elsewhere, below is a list of all of the frame parts you will need and their part numbers from [Misumi US](https://us.misumi-ec.com/).
 
 |Qty|Part #|Description|
 |-----|-----|-----|
@@ -37,60 +15,30 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |2|HFSB6-3030-330-TPW|Black anodize 3030 Normal Rigidity Type 330mm tap both ends (z)|
 |1|HFSB6-3030-200-Z8-XA15|Black anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
 |1|HFSB6-3030-147-LTP|Black anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
-
-## Hard Chrome Precision Linear Shaft from [Misumi US](https://us.misumi-ec.com) 
-
-|Qty|Part #|Description|
-|-----|-----|-----|
 |2|PSFG8-370|Hard Chrome Precision Linear Shaft - Straight 370mm (x)|
 |2|PSFG8-360|Hard Chrome Precision Linear Shaft - Straight 360mm (y)|
 |2|PSFG8-320|Hard Chrome Precision Linear Shaft - Straight 320mm (z)|
 
-## Low Temperature Black Chrome Precision Linear Shaft from [Misumi US](https://us.misumi-ec.com)
+# III. Other Hardware
+TODO fill this out
 
-|Qty|Part #|Description|
-|-----|-----|-----|
-|2|RSFJ8-370|Low Temperature Black Chrome Precision Linear Shaft - Straight 370mm (x)|
-|2|RSFJ8-360|Low Temperature Black Chrome Precision Linear Shaft - Straight 360mm (y)|
-|2|RSFJ8-320|Low Temperature Black Chrome Precision Linear Shaft - Straight 320mm (z)|
-
-- these are really precise and look cool but are very expensive
-
-## drylin® R - aluminum shaft AWM from [Igus](http://www.igus.com/wpck/3621/drylin_r_awm)
-
-|Qty|Part #|Description|
-|-----|-----|-----|
-|2|AWM-08 370|drylin® R - aluminum shaft AWM 370mm (x)|
-|2|AWM-08 360|drylin® R - aluminum shaft AWM 360mm (y)|
-|2|AWM-08 320|drylin® R - aluminum shaft AWM 320mm (z)|
-
-- comes in black, aluminum rods from igus
-
-## Common extrusion parts from [Misumi US](https://us.misumi-ec.com)
-
-|Qty|Part #|Description|
-|-----|-----|-----|
-|1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
-|4|C-30-RK-3617|Rubber Feet|
-|1|SHBLBSL6|Brackets - 6 Series, Blind Brackets (spool holder connector)|
-
-- instead of using t-nuts you can try to use M6 square nuts, but I won't recommend it
+# IV. Bushings (OPTIONAL)
+If you are upgrading from an Original Prusa i3 MK2, you may re-use the LM8UU bushings for X, Y and Z axes. However, you may consider swapping the X and Y axes with IGUS Drylin bushings. You can find the quantity and description below.
 
 ## Igus bushings
-
 |Qty|Part #|Description|
 |-----|-----|-----|
 |6|RJ4JP-01-08|IGUS DRYLIN® Bushing|
 
-- optional, I replaced the 3 in the y carriage and 3 in the x carriage
+
+# IV. Scratch Build
+The remainder of this document is geared towards individuals who would like to build an entire 3030 Haribo Edition from scratch
 
 ## Prusa Research
 
 |Qty|Part #|Description|
 |-----|-----|-----|
 |1|PRI-UPG-MK2-ORG|Original Prusa i3 Plus to MK2 upgrade kit|
-
-- if you are not reusing your existing mk2 hardware, you will need to get the upgrade kit and source a lot of missing misc parts yourself
 
 ## Electronics
 
@@ -168,4 +116,3 @@ Below you will find the Bill of Materials for the 3030 Haribo Edition build. Thi
 |1|eBay / aliexpress|625 5x16x5mm bearing|bearing in the extruder idler|
 |2|eBay / aliexpress|Extruder spring ID 3.5mm OD 5mm Height 21.5mm|springs for the extruder idler|
 |4|eBay / aliexpress|LM8UU linear bearing|bearing for the x ends|
-
