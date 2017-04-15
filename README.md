@@ -60,7 +60,7 @@ S3D base settings
 |24|unkle_rukus|Black/Neon Green||||
 |25|carre55|Black/Orange||||
 |26|dark-nico|Silver/Dark Green||||
-|27||||||
+|27|olliet|Silver/Patchwork Colors||||
 |28||||||
 |29||||||
 |30||||||
