@@ -94,7 +94,6 @@ This section is only required for users who are building a **3030 Haribo Edition
 |2|-|McMaster / Fastenal / Mr. Metric | M5 fender washer |
 |4|-|McMaster / Fastenal / Mr. Metric | M2 washer |
 |14|-|McMaster / Fastenal / Mr. Metric | M3 washer |
-|36|-|McMaster / Fastenal / Mr. Metric | M6 washer |
 |6|-|McMaster / Fastenal / Mr. Metric | M3 square nut |
 |2|-|McMaster / Fastenal / Mr. Metric | M3 lock nut|
 |9|-|McMaster / Fastenal / Mr. Metric | M3 hex nut|
