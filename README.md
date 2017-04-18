@@ -61,7 +61,7 @@ S3D base settings
 |25|carre55|Black/Orange||||
 |26|dark-nico|Silver/Dark Green||||
 |27|olliet|Silver/Patchwork Colors||||
-|28||||||
+|28|cova|Black/Translucent Blue||||
 |29||||||
 |30||||||
 |31||||||
