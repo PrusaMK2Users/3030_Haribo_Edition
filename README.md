@@ -62,9 +62,9 @@ S3D base settings
 |26|dark-nico|Silver/Dark Green||||
 |27|olliet|Silver/Patchwork Colors||||
 |28|cova|Black/Translucent Blue||||
-|29|jadam|Black/Black||||
-|30|bg|Silver/Patchwork Colors||||
-|31||||||
+|29|butthurt_beluga|Silver/Orange||||
+|30|jadam|Black/Black||||
+|31|bg|Silver/Patchwork Colors||||
 |32||||||
 |33||||||
 |34||||||
