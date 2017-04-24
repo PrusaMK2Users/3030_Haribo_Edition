@@ -2,9 +2,9 @@
 
 ![alt text][teaser]
 
-[teaser]: http://i.imgur.com/Tu3KHg3.jpg "Partial render image of Haribo"
+[teaser]: http://i.imgur.com/pz1YWP5.jpg "3030 Haribo Edition in Black"
 
-credit: jb3872 @ slack
+credit: @arobe
 
 ## Disclaimer
 
@@ -20,7 +20,7 @@ The use of 3030 extrusion makes the frame very rigid and square.  It takes a lot
 The name is from the candy that we get when we buy the MK2 kits.  Somebody jokingly said that's a good name and it sort of stuck.
 
 ## Contact us
-Please join our [Slack](http://codehemi.com) if you want to reach us.
+Please join our [Mattermost](http://3dprinting.community) if you want to reach us.
 
 ## Haribo in the wild
 
@@ -31,7 +31,7 @@ S3D base settings
 - 100mm/s 40% other speeds 20% first layer speed
 - 120mm/s 30% other speeds 15% first layer speed
 
-|\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
+|\#|username|frame/color|60mm/s|80mm/s|>100mm/s|
 |-----|-----|-----|-----|-----|-----|
 |0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Yellow|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
