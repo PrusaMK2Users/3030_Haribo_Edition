@@ -51,7 +51,7 @@ S3D base settings
 |15|patrik|||||
 |16|abjorshammar|||||
 |17|stevendpclark|||||
-|18|arb|Silver/Lime Green||||
+|18|[arb](http://imgur.com/a/QF9FW)|Silver/Lime Green||||
 |19|[philsburry](http://imgur.com/a/lQyBh)|Silver/Translucent Blue||||
 |20|kaiserheld|||||
 |21|tcolby|Silver/White||||
