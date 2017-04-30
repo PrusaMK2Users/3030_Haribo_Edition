@@ -65,10 +65,10 @@ S3D base settings
 |29|butthurt_beluga|Silver/Orange||||
 |30|jadam|Black/Black||||
 |31|bg|Silver/Patchwork Colors||||
-|32||||||
-|33||||||
-|34||||||
-|35||||||
+|32|curt.darius|Silver/Orange||||
+|33|evil4blue|Silver/Blue||||
+|34|nick|?||||
+|35|actibbs|Silver/Translucent Orange||||
 |36||||||
 |37||||||
 |38||||||
