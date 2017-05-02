@@ -40,6 +40,22 @@ to
 #define ENCODER_STEPS_PER_MENU_ITEM 1 // Set according to ENCODER_PULSES_PER_STEP or your liking
 ```
 
+## pins.h (optional)
+
+Now depending which LCD board you have, you might find the rotary wheel direction is not intuitive (goes up when you expect down, down when up).  It's fairly easy to fix.  You need to invert 2 numbers in pins.h  
+
+Find the first occurence of the following lines:
+```
+#define BTN_EN1 72
+#define BTN_EN2 14
+```
+
+These are the atmega pin numbers assigned to the up and down motion of the menus.  To invert them, simply swap the numbers so the lines become:
+```
+#define BTN_EN1 14
+#define BTN_EN2 72
+```
+
 ## Final step
 
 Now compile and upload the firmware.. redo your xyz calibration as normal
