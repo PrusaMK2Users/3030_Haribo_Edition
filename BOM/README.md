@@ -84,7 +84,7 @@ This section is only required for users who are building a **3030 Haribo Edition
 |-|-|Electronics Store|Short zip ties (just get a bag full) |
 |1|-|Electronics Store / Amazon | Wire loom (3/8" or 10mm) (For wire management)|
 |1|-|[RepRap Champion](https://goo.gl/54I3IC) / eBay / aliexpress|Prusa i3 Universal Y Carriage Plate|
-|2|-|[RepRap Champion](https://goo.gl/2fp5ZE) / eBay / aliexpress|GT2 16T pulley|
+|2|-|[RepRap Champion](https://goo.gl/VUj4mo) / eBay / aliexpress|GT2 16T pulley|
 |4|F623ZZ|eBay / aliexpress|F623ZZ 3x10x4mm flanged bearing. Put two of them together so the flange size faces out as belt idler. |
 |1|104138|eBay / Hobby Store|HPI Blitz / Firestorm Titanium Idler Gear Shaft 5x16m #104138 (For extruder idler bearing rod)|
 |1|-|eBay / aliexpress|625 5x16x5mm bearing (Bearing in the extruder idler)|
