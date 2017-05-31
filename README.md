@@ -2,9 +2,9 @@
 
 ![alt text][teaser]
 
-[teaser]: http://i.imgur.com/Tu3KHg3.jpg "Partial render image of Haribo"
+[teaser]: http://i.imgur.com/pz1YWP5.jpg "3030 Haribo Edition in Black"
 
-credit: jb3872 @ slack
+credit: @arobe
 
 ## Disclaimer
 
@@ -20,7 +20,7 @@ The use of 3030 extrusion makes the frame very rigid and square.  It takes a lot
 The name is from the candy that we get when we buy the MK2 kits.  Somebody jokingly said that's a good name and it sort of stuck.
 
 ## Contact us
-Please join our [Slack](http://codehemi.com) if you want to reach us.
+Please join our [Mattermost](http://3dprinting.community) if you want to reach us.
 
 ## Haribo in the wild
 
@@ -31,7 +31,7 @@ S3D base settings
 - 100mm/s 40% other speeds 20% first layer speed
 - 120mm/s 30% other speeds 15% first layer speed
 
-|\#|slack handle|frame/color|60mm/s|80mm/s|>100mm/s|
+|\#|username|frame/color|60mm/s|80mm/s|>100mm/s|
 |-----|-----|-----|-----|-----|-----|
 |0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Yellow|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
@@ -51,7 +51,7 @@ S3D base settings
 |15|patrik|||||
 |16|abjorshammar|||||
 |17|stevendpclark|||||
-|18|arb|Silver/Lime Green||||
+|18|[arb](http://imgur.com/a/QF9FW)|Silver/Lime Green||||
 |19|[philsburry](http://imgur.com/a/lQyBh)|Silver/Translucent Blue||||
 |20|kaiserheld|||||
 |21|tcolby|Silver/White||||
@@ -60,15 +60,15 @@ S3D base settings
 |24|unkle_rukus|Black/Neon Green||||
 |25|carre55|Black/Orange||||
 |26|dark-nico|Silver/Dark Green||||
-|27||||||
-|28||||||
-|29||||||
-|30||||||
-|31||||||
-|32||||||
-|33||||||
-|34||||||
-|35||||||
+|27|olliet|Silver/Patchwork Colors||||
+|28|cova|Black/Translucent Blue||||
+|29|butthurt_beluga|Silver/Orange||||
+|30|jadam|Black/Black||||
+|31|bg|Silver/Patchwork Colors||||
+|32|curt.darius|Silver/Orange||||
+|33|evil4blue|Silver/Blue||||
+|34|nick|?||||
+|35|actibbs|Silver/Translucent Orange||||
 |36||||||
 |37||||||
 |38||||||
