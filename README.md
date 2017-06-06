@@ -12,10 +12,13 @@ We are **not** affiliated with Prusa Research and the work hereafter was done in
 
 We are **not** affiliated with any Facebook group, any one claiming the haribo mod / haribo3030 / zaribo mod / etc is doing so on their own and it's not part of the effort
 
-The **ONLY** official source is this github and the **ONLY** official channel to reach is is listed below (mattermost)
+The **ONLY** official source is this github and the **ONLY** official channel to reach us is listed below (mattermost).  
 
 ## Contact us
+
 Please join our [Mattermost](http://3dprinting.community) if you want to reach us.
+
+There is a lot of different topics / channels on there, we welcome all with open arms.
 
 ## Disclaimer
 
