@@ -8,9 +8,9 @@ credit: @arobe
 
 ## Unaffiliated Statement
 
-We are not affiliated with Prusa Research and the work hereafter is independently / derived from open source files
+We are **not** affiliated with Prusa Research and the work hereafter was done independently / derived from open source files
 
-We are not affiliated with any facebook group, any one claiming the haribo mod / haribo303 / etc is doing so on their own.
+We are **not** affiliated with any Facebook group, any one claiming the haribo mod / haribo3030 / zaribo mod / etc is doing so on their own and it's not part of the effort
 
 The **ONLY** official source is this github and the **ONLY** official channel to reach is is listed below (mattermost)
 
@@ -29,6 +29,8 @@ Inspiration for the project came from [davtr](http://www.thingiverse.com/davtr/a
 The use of 3030 extrusion makes the frame very rigid and square.  It takes a lot of the guess work out of building the MK2
 
 The name is from the candy that we get when we buy the MK2 kits.  Somebody jokingly said that's a good name and it sort of stuck.
+
+We welcome any contribution to the project, just open a PR (pull request) and we will review and merge changes
 
 ## Haribo in the wild
 
