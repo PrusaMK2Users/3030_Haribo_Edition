@@ -70,7 +70,7 @@ S3D base settings
 |21|tcolby|Silver/White||||
 |22|ollietwist|Silver/Orange||||
 |23|Jb3872|Black/Burgundy||||
-|24|unkle_rukus|Black/Neon Green||||
+|24|unkle_rukus|Black/Neon Green|Yes|Yes|Yes|
 |25|carre55|Black/Orange||||
 |26|dark-nico|Silver/Dark Green||||
 |27|olliet|Silver/Patchwork Colors||||
