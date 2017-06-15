@@ -82,7 +82,7 @@ S3D base settings
 |33|evil4blue|Silver/Blue||||
 |34|nick|?||||
 |35|actibbs|Silver/Translucent Orange||||
-|36||||||
+|36|Cappy175|Black/Lime Green||||
 |37||||||
 |38||||||
 |39||||||
