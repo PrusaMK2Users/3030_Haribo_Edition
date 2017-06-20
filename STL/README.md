@@ -20,4 +20,7 @@ No supports are needed
 30% infill, triangular or fast honeycomb for strength
 3/3/2 top/bottom/perimeters
 0.2mm layer height
-PETG is preferred but PLA will work fine as well
+PETG is preferred
+
+ABS might have shrinkage issues on some parts
+PLA is not preferred, will eventually need replacements due to fatigue
