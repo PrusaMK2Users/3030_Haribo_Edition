@@ -83,7 +83,7 @@ S3D base settings
 |34|nick|?||||
 |35|actibbs|Silver/Translucent Orange||||
 |36|Cappy175|Black/Lime Green||||
-|37||||||
+|37|Grooperdude|Black/Dark Pruple||||
 |38||||||
 |39||||||
 |40||||||
