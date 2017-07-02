@@ -1,6 +1,6 @@
 # 3030 Haribo Printed Parts for alternative Extrusions   
    
-![alt text][teaser]: http://imgur.com/2kAgH48 "alternative Extrusions 3030 for the Haribo"[/teaser]   
+![alt text](http://imgur.com/2kAgH48) "alternative Extrusions 3030 for the Haribo" 
 
 credit: @skydriver   
   
