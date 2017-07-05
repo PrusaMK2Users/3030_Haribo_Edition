@@ -4,6 +4,7 @@ _These file are optional stuff to print for the Haribo Edition_
 
 |Filename|Author|Description|
 |-----|-----|-----|
+|1x_rambo_mount.stl|ryanneufeld (Ryan Neufeld)|Adapter plate to allow using the Prusa rambo enclosure.|
 |1x_aftermarket_y_carriage_raiser.stl|jtktam (Joseph Tam)|three sc8uu block spacers and 1 belt holder spacer to raise the y carriage by 3.5mm to match the level of the stock y carriage|
 |1x_fan-nozzle-haribo.scad<br/>1x_fan-nozzle-haribo.stl|jonasrh (Jonas Hansen)|a special version of the fan nozzle with "Haribo" on it|
 |1x_lcd_cover.stl|a.ro.be (Rob Andrews)|a special version of the lcd cover with "Haribo edition" on it|
