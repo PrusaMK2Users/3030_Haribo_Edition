@@ -48,8 +48,8 @@ S3D base settings
 |-----|-----|-----|-----|-----|-----|
 |0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Yellow|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
-|2|[ar.o.be](http://imgur.com/a/lWbZ5)|Silver/Pineapple|Yes|Yes|Yes|
-|3|[joostvwillegen](http://imgur.com/a/RYOfm)|Black/Metallic Gray<br/>Yellow/White|Yes|Yes|Yes|
+|2|SOLD to ryanneufeld[ar.o.be](http://imgur.com/a/lWbZ5)|Silver/Pineapple|Yes|Yes|Yes|
+|3|[joostvwillegen](http://imgur.com/a/RYOfm)|Black/Metallic Gray<br/>Yellow/Carbon|Yes|Yes|Yes|
 |4|chinooktx|Silver/Black|Yes|Yes|Yes|
 |5|[skuiper](http://imgur.com/a/5j4W8)|Black/Purple+Green|Yes|Yes||
 |6|JJ|Black/Violet||||
