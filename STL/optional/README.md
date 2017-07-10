@@ -8,6 +8,7 @@ _These file are optional stuff to print for the Haribo Edition_
 |1x_aftermarket_y_carriage_raiser.stl|jtktam (Joseph Tam)|three sc8uu block spacers and 1 belt holder spacer to raise the y carriage by 3.5mm to match the level of the stock y carriage|
 |1x_fan-nozzle-haribo.scad<br/>1x_fan-nozzle-haribo.stl|jonasrh (Jonas Hansen)|a special version of the fan nozzle with "Haribo" on it|
 |1x_lcd_cover.stl|a.ro.be (Rob Andrews)|a special version of the lcd cover with "Haribo edition" on it|
+|1x_lcd_mount_extra_contrast_clearence|stevendpclark (Steven Clark)|A version of the LCD mounts that provide more clearance for the contrast pot for 3rd Party 2004 LCD Smart Controller Display boards.|
 |1x_mk2x_y_belt_holder.stl|Mk2-x|demoted y belt holder|
 |1x_mk2x_y_belt_holder_modded.stl|chinooktx (Pat Brochu)|modded y belt holder from mk2x (added 2mm)|
 |1x_modified_stock_y_belt_holder.stl|geoffreyc (Geoffrey C.)|Modified stock y belt holder, alternative to reference one|
