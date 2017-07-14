@@ -1,6 +1,6 @@
 # Optional STL
 
-_These file are optional stuff to print for the Haribo Edition_
+_These files are optional stuff to print for the Haribo Edition_
 
 |Filename|Author|Description|
 |-----|-----|-----|
@@ -19,6 +19,7 @@ _These file are optional stuff to print for the Haribo Edition_
 |3x_SC8UU_RZJM.stl|jtktam (Joseph Tam)|adapt igus rjzm to sc8uu block, use for aftermarket y carriage|
 |3x_y_bearing_housing_lm8uu_short.stl|chinooktx (Pat Brochu)|adapt lm8uu to y belt bearing|
 |3x_y_bearing_housing_rjzm_01_08.stl|chinooktx (Pat Brochu)|adapt igus rjzm to y belt bearing|
+|7x_tsun_end_cap.stl|Cova (Rob Baumstark)|End caps designed to fit T-Sun 3030 extrusion|
 |LRS-350-12-bottom.stl|chinooktx (Pat Brochu)|Initial design for LRS-350-12 Meanwell Power Supply bottom cover|
 |LRS-350-12-top.stl|chinooktx (Pat Brochu)|Initial design for LRS-350-12 Meanwell Power Supply top bracket|
 |LRS-350-Neuf/LRS-350 Enclosure (lid and body) | Ryan Neufeld | Enclosure designed for IEC with integrated switch, and a removable lid for ease of access. Use M3x8mm fasteners w/ M3 nuts. Optionally you can use M3x10 or longer if you don't want to use nuts the hole beyond the nut is sized for direct threading of M3 fasteners.| 
