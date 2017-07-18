@@ -84,6 +84,6 @@ S3D base settings
 |35|actibbs|Silver/Translucent Orange||||
 |36|Cappy175|Black/Lime Green||||
 |37|Grooperdude|Black/Dark Pruple||||
-|38||||||
+|38|totalitarian|||||
 |39||||||
 |40||||||
