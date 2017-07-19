@@ -7,7 +7,8 @@ _These files are optional stuff to print for the Haribo Edition_
 |1x_rambo_mount.stl|ryanneufeld (Ryan Neufeld)|Adapter plate to allow using the Prusa rambo enclosure.|
 |1x_aftermarket_y_carriage_raiser.stl|jtktam (Joseph Tam)|three sc8uu block spacers and 1 belt holder spacer to raise the y carriage by 3.5mm to match the level of the stock y carriage|
 |1x_fan-nozzle-haribo.scad<br/>1x_fan-nozzle-haribo.stl|jonasrh (Jonas Hansen)|a special version of the fan nozzle with "Haribo" on it|
-|1x_lcd_cover.stl|a.ro.be (Rob Andrews)|a special version of the lcd cover with "Haribo edition" on it|
+|1x_lcd_cover.stl<br/>1x_lcd_cover.scad<br/>BPreplayBold.otf|Cova (Rob Baumstark)|Updated version of the LCD cover with '3030 Haribo Edition'. SCAD source included to generate custom LCD covers with your number in the corner and optionally updated text for dual-color.<br/>Included BPreplay font required to compile the SCAD source.|
+|1x_lcd_cover_text.stl|Cova (Rob Baumstark)|STL of the text in the LCD cover for dual-color prints.|
 |1x_lcd_mount_3030_clips.stl|nrepian|Modified LCD mount to use clips, rather than insert|
 |1x_lcd_mount_extra_contrast_clearence|stevendpclark (Steven Clark)|A version of the LCD mounts that provide more clearance for the contrast pot for 3rd Party 2004 LCD Smart Controller Display boards.|
 |1x_mk2x_y_belt_holder.stl|Mk2-x|demoted y belt holder|
