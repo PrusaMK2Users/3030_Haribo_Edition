@@ -86,5 +86,5 @@ S3D base settings
 |37|Grooperdude|Black/Dark Pruple||||
 |38|totalitarian|||||
 |39|mloidl|Silver/Melon Yellow||||
-|40||||||
+|40|IcicleTrepan|Black/Green||||
 |41||||||
