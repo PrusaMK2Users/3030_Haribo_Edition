@@ -87,4 +87,5 @@ S3D base settings
 |38|totalitarian|||||
 |39|mloidl|Silver/Melon Yellow||||
 |40|IcicleTrepan|Black/Green||||
-|41||||||
+|41|ballzyk0umpa|Black/Orange||||
+|42|Dino|Black/Pink||||
