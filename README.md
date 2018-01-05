@@ -89,6 +89,6 @@ S3D base settings
 |40|IcicleTrepan|Black/Green||||
 |41|ballzyk0umpa|Black/Orange||||
 |42|Dino|Black/Pink||||
-|43|||||
+|43|skydriver|Silver/Translucent Green|yes|yes||
 |44|||||
 |45|||||
