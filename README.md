@@ -48,7 +48,7 @@ S3D base settings
 |-----|-----|-----|-----|-----|-----|
 |0|jtktam|Silver/Orange<br/>Silver/Red<br/>Black/Yellow|Yes|Yes|Yes|
 |1|geoffreyc|Silver/Orange|Yes|Yes|Yes|
-|2|SOLD to ryanneufeld[ar.o.be](http://imgur.com/a/lWbZ5)|Silver/Pineapple|Yes|Yes|Yes|
+|2|[ar.o.be](http://imgur.com/a/lWbZ5)|Silver/Pineapple|Yes|Yes|Yes|
 |3|[joostvwillegen](http://imgur.com/a/RYOfm)|Black/Metallic Gray<br/>Yellow/Carbon|Yes|Yes|Yes|
 |4|chinooktx|Silver/Black|Yes|Yes|Yes|
 |5|[skuiper](http://imgur.com/a/5j4W8)|Black/Purple+Green|Yes|Yes||
@@ -57,7 +57,7 @@ S3D base settings
 |8|ryanneufeld|Black/Black||||
 |9|tricko|Black/Black+White|Yes|Yes|Yes|
 |10|cube|||||
-|11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade||||
+|11|[johnocfii](http://imgur.com/a/TPEzO)|Black/Jade|Yes|||
 |12|[jasonh](http://imgur.com/a/vpMrx)|Silver/Transparent|Yes|Yes|Yes|
 |13|jonasrh|Black/GITD green||||
 |14|[evad](http://imgur.com/a/PWNlf)|Silver/Silver|Yes|Yes|Yes|
@@ -84,6 +84,11 @@ S3D base settings
 |35|actibbs|Silver/Translucent Orange||||
 |36|Cappy175|Black/Lime Green||||
 |37|Grooperdude|Black/Dark Pruple||||
-|38||||||
-|39||||||
-|40||||||
+|38|totalitarian|||||
+|39|mloidl|Silver/Melon Yellow||||
+|40|IcicleTrepan|Black/Green||||
+|41|ballzyk0umpa|Black/Orange||||
+|42|Dino|Black/Pink||||
+|43|skydriver|Silver/Translucent Green|yes|yes||
+|44|||||
+|45|||||
