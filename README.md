@@ -90,5 +90,5 @@ S3D base settings
 |41|ballzyk0umpa|Black/Orange||||
 |42|Dino|Black/Pink||||
 |43|skydriver|Silver/Translucent Green|yes|yes||
-|44|||||
+|44|kstiers|Black/Translucent Sapphire||||
 |45|||||
