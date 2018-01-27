@@ -88,7 +88,7 @@ S3D base settings
 |39|mloidl|Silver/Melon Yellow||||
 |40|IcicleTrepan|Black/Green||||
 |41|ballzyk0umpa|Black/Orange||||
-|42|Dino|Black/Pink||||
+|42|[Dino](https://i.imgur.com/nfYLiFp.jpg)|Black/Pink|Yes|Yes|Yes|
 |43|skydriver|Silver/Translucent Green|yes|yes||
 |44|kstiers|Black/Translucent Sapphire||||
 |45|christherock23|Black/SkyBlue|||
