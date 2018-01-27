@@ -91,4 +91,4 @@ S3D base settings
 |42|Dino|Black/Pink||||
 |43|skydriver|Silver/Translucent Green|yes|yes||
 |44|kstiers|Black/Translucent Sapphire||||
-|45|||||
+|45|christherock23|Black/SkyBlue|||
