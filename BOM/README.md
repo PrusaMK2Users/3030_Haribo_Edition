@@ -22,7 +22,7 @@ If you would rather source the frame parts elsewhere, below is a list of all of 
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 
-#### Scratch Build Misumi Parts
+#### Misc Misumi Parts (Scratch build only)
 
 |Qty|Misumi Part #|Description|
 |-----|-----|-----|
