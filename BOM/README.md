@@ -22,6 +22,13 @@ If you would rather source the frame parts elsewhere, below is a list of all of 
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 
+#### Scratch Build Misumi Parts
+
+|Qty|Misumi Part #|Description|
+|-----|-----|-----|
+|2|HFS6-3030-200-Z8-XA15|Extruder Springs (15mm)|
+|1|PSFR5-16|Extruder idler bearing rod(5x16mm)|
+
 #### Spool Holder Parts List (OPTIONAL)
 If you would like to build an integrated spool holder, there are a few other parts you will need.
 
@@ -30,14 +37,6 @@ If you would like to build an integrated spool holder, there are a few other par
 |1|HFS6-3030-200-Z8-XA15|Clear anodize 3030 High Rigidity Type extrusion 200mm 8mm counterbore hole @ 15mm (spool holder vertical)|
 |1|HFS6-3030-147-LTP|Clear anodize 3030 High Rigidity Type extrusion 147mm tap left end (spool holder horizontal)|
 |1|SHBLBSL6|Brackets - 6 Series, Blind Brackets |
-
-#### Scratch Build Misumi Parts (OPTIONAL)
-
-|Qty|Misumi Part #|Description|
-|-----|-----|-----|
-|2|HFS6-3030-200-Z8-XA15|Extruder Springs (15mm)|
-|1|PSFR5-16|Extruder idler bearing rod(5x16mm)|
-
 
 # III. Mounting Hardware
 #### Required For: **Upgrade** / **Scratch-Build**
