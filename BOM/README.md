@@ -22,6 +22,13 @@ If you would rather source the frame parts elsewhere, below is a list of all of 
 |1|PACK-HNTTSN6-6|Pre-Assembly Insertion Short Nuts -For HFS6 Series Aluminum Extrusions (100 per pack)|
 |4|C-30-RK-3617|Rubber Feet|
 
+#### Misc Misumi Parts (Scratch build only)
+
+|Qty|Misumi Part #|Description|
+|-----|-----|-----|
+|2|HFS6-3030-200-Z8-XA15|Extruder Springs (5x15mm)|
+|1|PSFR5-16|Extruder idler bearing rod(5x16mm)|
+
 #### Spool Holder Parts List (OPTIONAL)
 If you would like to build an integrated spool holder, there are a few other parts you will need.
 
@@ -87,8 +94,6 @@ This section is only required for users who are building a **3030 Haribo Edition
 |2|-|[RepRap Champion](https://goo.gl/VUj4mo) / eBay / aliexpress|GT2 16T pulley|
 |4|F623ZZ|eBay / aliexpress|F623ZZ 3x10x4mm flanged bearing. Put two of them together so the flange size faces out as belt idler. |
 |1|104138|eBay / Hobby Store|HPI Blitz / Firestorm Titanium Idler Gear Shaft 5x16m #104138 (For extruder idler bearing rod)|
-|1|-|eBay / aliexpress|625 5x16x5mm bearing (Bearing in the extruder idler)|
-|2|-|eBay / aliexpress|Extruder spring ID 3.5mm OD 5mm Height 21.5mm (Springs for the extruder idler)|
 |4|-|[RepRap Champion](https://goo.gl/8F2Ub6) / eBay / aliexpress|LM8UU linear bearing (Bearings for the X Ends (Z Movement Direction) |
 |8|-|McMaster / Fastenal / Mr. Metric | M3 fender washer |
 |2|-|McMaster / Fastenal / Mr. Metric | M5 fender washer |
