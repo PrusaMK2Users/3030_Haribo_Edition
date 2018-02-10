@@ -1,4 +1,4 @@
-# 3030 Haribo Printed Parts for alternative Extrusions   (WIP)    
+# 3030 Haribo Printed Parts for alternative Extrusions   
    
 ![Alternative Haribo Extrusion](http://i.imgur.com/2kAgH48.jpg) 
 
