@@ -93,3 +93,5 @@ S3D base settings
 |44|kstiers|Black/Translucent Sapphire||||
 |45|christherock23|Black/SkyBlue|||
 |46|RiskyBirdness|Silver/Red/Black|Yes|Yes|Yes|
+|47|SkyDriver|Silver/Green Metallic|N/A|N/A|N/A|   
+|48|cdunham1974|Silver/Translucent Magenta|N/A|N/A|N/A| 
