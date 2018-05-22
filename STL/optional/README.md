@@ -22,6 +22,7 @@ _These files are optional stuff to print for the Haribo Edition_
 |3x_y_bearing_housing_lm8uu_short.stl|chinooktx (Pat Brochu)|adapt lm8uu to y belt bearing|
 |3x_y_bearing_housing_rjzm_01_08.stl|chinooktx (Pat Brochu)|adapt igus rjzm to y belt bearing|
 |7x_tsun_end_cap.stl|Cova (Rob Baumstark)|End caps designed to fit T-Sun 3030 extrusion|
+|16mm Tnut Spacing|davvyk/dino (Garrett B)|Widened spacing between blocks to accomodate 15.8mm Tnuts|
 |i3 Haribo Rambo Mount Thin.stl|ARBBB|Use for mounting standard rambo enclosure to the Haribo extrusions.|
 |LED_Holder_Haribo_v3.stl | John O'Shaughnessy (johnocfii) and Patrik Rosén (patrik) | LED Strip/Bar Holders that attach to the back side of the Haribo frame.  Use this if you didn't use plastic L brackets on the top of the Z frame or if you did use plastic L brackets but only need a narrow area to hold your LEDs as the L brackets will prevent you from using the full back side of the extrusion.|
 |LED_Holder_Haribo_v3_Bracket_Mount.stl | IcicleTrepan | Yet another alternate version of the excellent LED Strip/Bar Holder by John/Patrik.  This one can attach to the back side of the extrusion over top of the L brackets, giving you use of most of the back side of the Z frame's extrusion (still have to watch out for the hex screws).  NOTE:  It may be easier to install beside the bracket and then slide over the bracket than to install directly on the bracket.|
