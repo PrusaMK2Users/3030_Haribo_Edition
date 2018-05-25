@@ -32,3 +32,4 @@ _These files are optional stuff to print for the Haribo Edition_
 |LRS-350-Neuf/LRS-350 Enclosure (lid and body) | Ryan Neufeld | Enclosure designed for IEC with integrated switch, and a removable lid for ease of access. Use M3x8mm fasteners w/ M3 nuts. Optionally you can use M3x10 or longer if you don't want to use nuts the hole beyond the nut is sized for direct threading of M3 fasteners.| 
 |MK2S-modified-y-belt-holder.stl| Ryan Neufeld | A wider version of the stock mk2s belt holder, allows for re-positioning to better align with the PINDA when homing.|
 |MK2S-modified-y-belt-holder-3mm-taller.stl| Ryan Neufeld | As above, only pushes the belt down 3mm, this is to be used in leiu of the belt holder spacer when using the half height bed frame.|
+|Spool-holder-slide-top.stl|MoshiBin | A spool holder that sits on top of the frame, slides from the side of the top extrusion. Modeled to be similar to the "B4" MK3 spool mount.|
