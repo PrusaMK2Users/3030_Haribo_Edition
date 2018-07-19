@@ -16,6 +16,7 @@ _These files are optional stuff to print for the Haribo Edition_
 |1x_mk2x_y_belt_holder_modded.stl|chinooktx (Pat Brochu)|modded y belt holder from mk2x (added 2mm)|
 |1x_power_supply_box.stl<br/>1x_power_supply_mount.stl|jtktam (Joseph Tam)|Power supply mount and switch box for ebay PSU|
 |1x_rambo_mount.stl|ryanneufeld (Ryan Neufeld)|Adapter plate to allow using the Prusa rambo enclosure.|
+|1x_z_motor_mounts_three_screw.stl|dino (Garrett B)|Removed front inner screw holes to prevent collisions with pinda/fan nozzle|
 |3x_double_y_bearing_housing.stl|Mk2-x|demoted y bearing holder|
 |3x_SC8UU_LM8UU.stl|jtktam (Joseph Tam)|adapt lm8u to sc8uu block, use for aftermarket y carriage|
 |3x_SC8UU_RZJM.stl|jtktam (Joseph Tam)|adapt igus rjzm to sc8uu block, use for aftermarket y carriage|
