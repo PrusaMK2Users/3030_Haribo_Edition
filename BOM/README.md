@@ -44,7 +44,7 @@ If you would like to build an integrated spool holder, there are a few other par
 You will need some various nuts and bolts in order to assemble your **3030 Haribo Edition**. Below you will find a list of required hardware for both an upgrade build and a scratch printer build.
 
 #### Recommended sources for this section (United States)
-- [Mr. Metric](http://www.mrmetric.com/)
+- [Bolt Depot](http://www.boltdepot.com/)
 - [McMaster-Carr](https://www.mcmaster.com)
 - [Fastenal](https://www.fastenal.com/)
 
