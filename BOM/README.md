@@ -95,26 +95,26 @@ This section is only required for users who are building a **3030 Haribo Edition
 |4|F623ZZ|eBay / aliexpress|F623ZZ 3x10x4mm flanged bearing. Put two of them together so the flange size faces out as belt idler. |
 |1|104138|eBay / Hobby Store|HPI Blitz / Firestorm Titanium Idler Gear Shaft 5x16m #104138 (For extruder idler bearing rod)|
 |4|-|[RepRap Champion](https://goo.gl/8F2Ub6) / eBay / aliexpress|LM8UU linear bearing (Bearings for the X Ends (Z Movement Direction) |
-|8|-|McMaster / Fastenal / Mr. Metric | M3 fender washer |
-|2|-|McMaster / Fastenal / Mr. Metric | M5 fender washer |
-|4|-|McMaster / Fastenal / Mr. Metric | M2 washer |
-|14|-|McMaster / Fastenal / Mr. Metric | M3 washer |
-|6|-|McMaster / Fastenal / Mr. Metric | M3 square nut |
-|2|-|McMaster / Fastenal / Mr. Metric | M3 lock nut|
-|9|-|McMaster / Fastenal / Mr. Metric | M3 hex nut|
-|4|-|McMaster / Fastenal / Mr. Metric | Socket Head Cap Screw M2 x 12mm|
-|15|-|McMaster / Fastenal / Mr. Metric | Socket Head Cap Screw M3 x 10mm|
-|6|-|McMaster / Fastenal / Mr. Metric | Socket Head Cap Screw M3 x 12mm|
-|10|-|McMaster / Fastenal / Mr. Metric | Socket Head Cap Screw M3 x 18mm|
-|3|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M3 x 20mm|
-|2|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M3 x 25mm|
-|3|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M3 x 30mm|
-|3|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M3 x 40mm|
-|5|-|McMaster / Fastenal / Mr. Metric |Button Head Cap Screw M3 x 8mm|
-|4|-|McMaster / Fastenal / Mr. Metric |Button Head Cap Screw M3 x 10mm|
-|2|-|McMaster / Fastenal / Mr. Metric |Button Head Cap Screw M3 x 12mm|
-|4|-|McMaster / Fastenal / Mr. Metric |Button Head Cap Screw M4 x 6mm|
-|9|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M8 x 40mm|
-|12|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M6 x 12mm|
-|54|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M6 x 14mm|
-|4|-|McMaster / Fastenal / Mr. Metric |Socket Head Cap Screw M6 x 20mm|
+|8|-|McMaster / Fastenal / Bolt Depot | M3 fender washer |
+|2|-|McMaster / Fastenal / Bolt Depot | M5 fender washer |
+|4|-|McMaster / Fastenal / Bolt Depot | M2 washer |
+|14|-|McMaster / Fastenal / Bolt Depot | M3 washer |
+|6|-|McMaster / Fastenal / Bolt Depot | M3 square nut |
+|2|-|McMaster / Fastenal / Bolt Depot | M3 lock nut|
+|9|-|McMaster / Fastenal / Bolt Depot | M3 hex nut|
+|4|-|McMaster / Fastenal / Bolt Depot | Socket Head Cap Screw M2 x 12mm|
+|15|-|McMaster / Fastenal / Bolt Depot | Socket Head Cap Screw M3 x 10mm|
+|6|-|McMaster / Fastenal / Bolt Depot | Socket Head Cap Screw M3 x 12mm|
+|10|-|McMaster / Fastenal / Bolt Depot | Socket Head Cap Screw M3 x 18mm|
+|3|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M3 x 20mm|
+|2|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M3 x 25mm|
+|3|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M3 x 30mm|
+|3|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M3 x 40mm|
+|5|-|McMaster / Fastenal / Bolt Depot |Button Head Cap Screw M3 x 8mm|
+|4|-|McMaster / Fastenal / Bolt Depot |Button Head Cap Screw M3 x 10mm|
+|2|-|McMaster / Fastenal / Bolt Depot |Button Head Cap Screw M3 x 12mm|
+|4|-|McMaster / Fastenal / Bolt Depot |Button Head Cap Screw M4 x 6mm|
+|9|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M8 x 40mm|
+|12|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M6 x 12mm|
+|54|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M6 x 14mm|
+|4|-|McMaster / Fastenal / Bolt Depot |Socket Head Cap Screw M6 x 20mm|
