@@ -17,13 +17,22 @@ Let's change the name of the printer:
 #define CUSTOM_MENDEL_NAME "3030 Haribo Edition"
 ```
 
-Let's set the correct Z_MAX_POS, the originial value is 210, and after a few test builds we determine 220 works
+Let's set the correct Z_MAX_POS, the originial value is 210, and after a few test builds we determine 220 works on the MK2 and MK2s
 
 so let's set it to 220:
 
 ```
 #define Z_MAX_POS 220
 ```
+
+If using the MK2.5 you'll need to change the Z_MAX_POS to 225mm due to the new MK52 bed
+
+so let's set it to 225:
+
+```
+#define Z_MAX_POS 225
+```
+
 ## Configuration.h
 
 Since we are in here anyways, let's fix the encoder too:
