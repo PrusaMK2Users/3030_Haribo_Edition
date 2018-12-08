@@ -1,5 +1,9 @@
 # Firmware
 
+## Releases
+
+Releases can be found here: https://github.com/PrusaMK2Users/Prusa-Firmware/releases
+
 ## Introduction
 
 The 3030 Haribo Edition frame has slightly more Z height than the stock Original Prusa i3 MK2. You will need to make some minor modifications to the firmware in order to accommodate for this.
