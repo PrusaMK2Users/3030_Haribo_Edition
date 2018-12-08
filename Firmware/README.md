@@ -2,7 +2,7 @@
 
 ## Releases
 
-Releases can be found here: https://github.com/PrusaMK2Users/Prusa-Firmware/releases
+Pre-compiled HEX releases can be found here: https://github.com/PrusaMK2Users/Prusa-Firmware/releases
 
 ## Introduction
 
