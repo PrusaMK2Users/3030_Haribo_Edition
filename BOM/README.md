@@ -26,7 +26,7 @@ If you would rather source the frame parts elsewhere, below is a list of all of 
 
 |Qty|Misumi Part #|Description|
 |-----|-----|-----|
-|2|HFS6-3030-200-Z8-XA15|Extruder Springs (5x15mm)|
+|2|WM5-15|Extruder Springs (5x15mm)|
 |1|PSFR5-16|Extruder idler bearing rod(5x16mm)|
 
 #### Spool Holder Parts List (OPTIONAL)
