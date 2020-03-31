@@ -96,4 +96,5 @@ S3D base settings
 |47|SkyDriver|Silver/Green Metallic||N/A|N/A|N/A|   
 |48|cdunham1974|Silver/Translucent Magenta||N/A|N/A|N/A| 
 |49|psynautic||||||
-|50|[devsfan1830](https://imgur.com/gallery/Fj866qR)|Black/Orange|MK2.5|||| 
+|50|[devsfan1830](https://imgur.com/gallery/Fj866qR)|Black/Orange|MK2.5||||
+|51|[catrielmuller](https://imgur.com/gallery/VBMNfim)|Black/Black|MK2s MMU|Yes|Yes|Yes| 
